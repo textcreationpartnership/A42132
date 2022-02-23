@@ -1,0 +1,1371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An astrological judgement touching theft wherein is demonstrated most incomparable secrets according to the best rules in art : first how to find out or discover theft or theeves ... : secondly to discover fugitives and beasts lost or strayed, &amp;c. ... / by Anthony Griffin, stud. in astrology.</title>
+            <author>Griffin, Anthony, Stud. in astrology.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42132</idno>
+            <idno type="STC">Wing G1981</idno>
+            <idno type="STC">ESTC R368</idno>
+            <idno type="EEBO-CITATION">12409259</idno>
+            <idno type="OCLC">ocm 12409259</idno>
+            <idno type="VID">61470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 278:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An astrological judgement touching theft wherein is demonstrated most incomparable secrets according to the best rules in art : first how to find out or discover theft or theeves ... : secondly to discover fugitives and beasts lost or strayed, &amp;c. ... / by Anthony Griffin, stud. in astrology.</title>
+                  <author>Griffin, Anthony, Stud. in astrology.</author>
+               </titleStmt>
+               <extent>[8], 84, [7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Lillicrap,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A peice not before extant"</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Theft.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61470:1" rendition="simple:additions"/>
+            <pb facs="tcp:61470:1" rendition="simple:additions"/>
+            <p>AN Aſtrological Judgement TOUCHING THEFT, Wherein is demonſtrated moſt Incomparable Secrets according to the beſt Rules in Art.</p>
+            <p>Firſt how to find out or diſcover Theft or Theeves, too much uſed in this Nati<g ref="char:EOLhyphen"/>on, to the great damage of many People.</p>
+            <p>Secondly to diſcover Fugitives and Beaſts Loſt or Strayed &amp;c.</p>
+            <p>Compendiouſly ſet forth for the good of all people eſpecially to thoſe that are not enemies to this Noble Art.</p>
+            <p>
+               <hi>A Peice not before Extant.</hi>
+            </p>
+            <p>By <hi>Anthony Griffin,</hi> Stud. in Aſtrology.</p>
+            <q>Ex Aſtris optimae eſt haurienda Scientia.</q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Peter Lillicrap,</hi> 1665.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:61470:2" rendition="simple:additions"/>
+            <pb facs="tcp:61470:2"/>
+            <head>TO His much Honoured Friend Mr. CHARLES CHIP, The Author wisheth all happi<g ref="char:EOLhyphen"/>neſs in this world, and Eternal fe<g ref="char:EOLhyphen"/>licity in the world to come.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Made bold to Dedicate this ſmall piece to you, though ſomewhat a ſtranger to you at pre<g ref="char:EOLhyphen"/>ſent, yet being deſired by a faithfull friend of yours: who informed me of the great reſpect you owe to Art, I could do
+<pb facs="tcp:61470:3"/>
+no leſs; therefore good Sir, let me Crave your pardon in this my preſum<g ref="char:EOLhyphen"/>ption, and let me deſire you to paſs by my imbecilities, which I do not fear but that you will, when you have ſeri<g ref="char:EOLhyphen"/>ouſly conſider my Minority, and how hard a matter it is to comprehend the profundity of this moſt ſublime Sci<g ref="char:EOLhyphen"/>ence: and now to let you underſtand what moved me here to make my ſelf publique, is the true love that I owe to my Countrey, and I hope moſt will receive benefit by thoſe my weak indeavours, and upon this account one<g ref="char:EOLhyphen"/>ly, I have preſumed to make known to the world this little tract of Aſtrology touching Theft, knowing it muſt paſs the Cenſure of various capacities, and from the unskilful I expect blots, but from the Judicious a friendly Correcti<g ref="char:EOLhyphen"/>on, and if at laſt it may be crown<g ref="char:EOLhyphen"/>ed with your Protection, my ex<g ref="char:EOLhyphen"/>pectation is fully anſwered: who
+<pb facs="tcp:61470:3"/>
+faithfully deſires to ſubſcribe him<g ref="char:EOLhyphen"/>ſelf,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>
+                  <hi>your devoted ſervant for ever to Command,</hi> Anthony Griffin.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:61470:4"/>
+            <head>To the Judicious READER</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I did ſeriouſly Conſider what miſchief is done by Thieves and Cheates, I could do no leſs but make pub<g ref="char:EOLhyphen"/>lique this Little Treatiſe touching Theft, &amp;c. Wherein Aſtrologically is plainly laid down ſome very excellent Rules of Art Experimentally amplyfied, eaſie to be underſtood by the meaneſt capacity, and certainly will be of much advantage, not onely to thoſe who are well verſed in this moſt ſublime Science: But to moſt others that are deſirous to
+<pb facs="tcp:61470:4"/>
+be inſtructed therein: and for the bet<g ref="char:EOLhyphen"/>ter underſtanding I have here ſhewed you whether the Figure at the time of the queſtion is Radicall or not: that you may not deceive your ſelves nor the querent: but certainly direct him how to find the Theif or goods ſtolen, &amp;c. and ſometimes it doth ſo happen that many things are miſlaid, and not out of the querents houſe, but he judgeth it ſtole becauſe theft is ſo much practiſed by ſervants, &amp;c. Therefore I have de<g ref="char:EOLhyphen"/>monſtrated to thy view, whether it be ſtole or remain in the houſe (if ſo) in what part thereof it may probably be found. But if the goods are ſtolen, I have ſhewed thee the beſt Rules how to deſcribe the Thief or Thieves, which way they live, ſtrangers or familiars, &amp;c. Likewiſe concerning Beaſts, if they are ſtole or ſtrayed, and Fugitives with many other matters very uſefull and benificial, to all that are ſtudients
+<pb facs="tcp:61470:5"/>
+in this Art, <hi>viz. Judicial Aſtrology:</hi> So Courtious Reader, let me deſire thee to pardon my imbecilities, and if God permit me with Life and health, I ſhall furniſh thee with another Piece Treating of the judgements of all horary queſtions, more perticular then any yet extant: and to all carping Criticks and fantaſticall ſencerers I thus make them an anſwer,
+<q>
+                  <l>
+                     <g ref="char:V">Ʋ</g>t Ignam Caves</l>
+                  <l>Omnibus ignotis,</l>
+                  <l>Allatrant ita barbari;</l>
+                  <l>Quicquid non intelligunt</l>
+                  <l>Carpunt at damnant.</l>
+               </q>
+            </p>
+            <closer>
+               <signed>Thine <hi>Anthony Griffin.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:61470:5"/>
+            <head>AN <hi>Aſtrological Judgment</hi> Touching THEFT &amp;c</head>
+            <div type="part">
+               <head>Firſt to know whether the Figure be ra<g ref="char:EOLhyphen"/>dical or not.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>F the Lord of the Aſcendant and the Lord of the hour be both of one Triplicity the Figure is radical and Judgement may ſafely be given.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>If <hi>Aries</hi> aſcends and <hi>Mars</hi> be Lord of the hour the Figure is radical, the
+<pb n="2" facs="tcp:61470:6"/>
+ſame if <hi>Cancer Scorpio</hi> or <hi>Piſces</hi> aſcends <hi>Mars</hi> governing that Triplicity: if that <hi>Sagitarius</hi> or <hi>Piſces</hi> aſcends and <hi>Jupiter</hi> be Lord of the hour the Figure is Radical, and thus obſerve of all the reſt: which by your own diſcretion you may eaſily find out.</p>
+               <p>When the latter degrees of a ſign aſcends it is not ſafe to give Judgement unleſs the Age Corprature and Com<g ref="char:EOLhyphen"/>plexion of the Querent doth agree with the degrees aſcending.</p>
+               <p>Alſo when the Second Third Fourth or Fifth degrees of a ſign aſcends, chief<g ref="char:EOLhyphen"/>ly in ſigns of ſhort aſcenſion, it is not ſafe to give judgement unleſs the Querent be young and ſhort of ſtature.</p>
+               <p>Likewiſe if the Moon be in the firſt degrees of a ſign or elſe in the Latter, give no Judgement, for the Querent comes to try thee and likewiſe for de<g ref="char:EOLhyphen"/>ceit.</p>
+               <p>Likewiſe if the <hi>Moon</hi> be unfortunate
+<pb n="3" facs="tcp:61470:6"/>
+or be void of courſe, or if <hi>Scorpio</hi> do aſ<g ref="char:EOLhyphen"/>cendor if the <hi>Dragons</hi>-tail be in the firſt or ſeventh houſe, or if that the fortunes and infortunes be of equall ſtrength, all theſe do ſignifie errours in Judgement, and an unlucky end of the queſtion.</p>
+               <p>Narrowly obſerve whether the ſe<g ref="char:EOLhyphen"/>venth Houſe or his Lord be aflicted, for then it is an Argument that the Ar<g ref="char:EOLhyphen"/>tiſt ſhall not gain Credit by the queſti<g ref="char:EOLhyphen"/>on, for the ſeventh Houſe ſignifies the Artiſt himſelf.</p>
+            </div>
+            <div type="part">
+               <head>Now I ſhall begin concerning Theft or any other thing loſt.</head>
+               <p>When a Queſtion is propounded concerning Theft, it is very conveni<g ref="char:EOLhyphen"/>ent to examine the Figure and ſee whe<g ref="char:EOLhyphen"/>ther the thing enquired after be ſtolen or not, or whether it be in the Que<g ref="char:EOLhyphen"/>rents houſe or not, which may be diſ<g ref="char:EOLhyphen"/>cerned ſeveral ways; as thus:</p>
+               <div type="section">
+                  <pb n="4" facs="tcp:61470:7"/>
+                  <head>Choice tokens that the Goods are not ſtolen.</head>
+                  <p>If neither the Lord of the Houſe of the <hi>Moon,</hi> or the Lord of the Houſe of the Second ſeperate not themſelves one from another, nor any Planet from, then the thing enquired after is in its own place.</p>
+                  <p>If that the diſpoſer of the <hi>Moon,</hi> and the Lord of the Aſcendant be in <hi>Con<g ref="char:EOLhyphen"/>junction,</hi> then is the thing miſſing in the houſe of the Querent.</p>
+                  <p>If that the Lord of the Aſcendant did ſeparate from <hi>Jupiter,</hi> or from the Lord of the Second, then did the Que<g ref="char:EOLhyphen"/>rent lay it down and forget it.</p>
+                  <p>If that the Lord of the Hour be in the Aſcendant, the thing wanting is not ſtolen but in the Querents houſe.</p>
+                  <p>If that <hi>Cancer</hi> Aſcends and the <hi>Moon</hi> be in the fourth, and the Lord of the
+<pb n="5" facs="tcp:61470:7"/>
+ſecond be in the ſeventh, or in the ſign of the eight, at a <hi>Sextile</hi> or <hi>Trine</hi> to the <hi>Moon,</hi> then the things enqui<g ref="char:EOLhyphen"/>red after is not ſtolen, but taken away in Jeſt.</p>
+                  <p>If that the <hi>Moon</hi> be in the ſe<g ref="char:EOLhyphen"/>venth, in the ſign of the Lord of the Hour, the Lord of the hour be<g ref="char:EOLhyphen"/>ing Lord of the ſeventh, the Goods are not taken away, but over lookt and miſtaken.</p>
+                  <p>If that the Lord of the Aſcendant and the Lord of the hour be in <hi>Conjun<g ref="char:EOLhyphen"/>ction,</hi> the thing enquired after is not ſtolen.</p>
+                  <p>If the Lord of the hour, the Lord of the fourth, and Planet in the fourth, the <hi>Moon</hi> of her diſpoſiter, any of theſe ſignificators being joyned near toge<g ref="char:EOLhyphen"/>ther, doth argue that the goods are not ſtolen but near the Querent.</p>
+                  <p>Having found whether the Goods be in the houſe or not, now I ſhall
+<pb n="6" facs="tcp:61470:8"/>
+ſhow you in what part of the houſe you may diſcover them in, Firſt I ſhall ſhow what places every Sign doth re<g ref="char:EOLhyphen"/>preſent.</p>
+                  <p>
+                     <hi>Aries,</hi> a place where ſmall beaſt are kept, as Sheep and ſuch like. In houſes the Roofe Plaiſtering or covering of the houſe, Kitching ſlaughter-houſes back-houſes houſes of office Chimneys fire-places diſtilling houſe, brew-houſe or a place where Iron is wrought on.</p>
+                  <p>
+                     <hi>Taurus,</hi> a Stable of great beaſts and places where Implements of Cattel are laid up, low grounds and Cellars, and ground newly taken in, paſtures and ſowed lands.</p>
+                  <p>
+                     <hi>Geminy,</hi> uper Rooms Cheſts Trunks walls and plaſterings of the houſe ſtore-houſes hay-lofts and Barns Hills and Mountains.</p>
+                  <p>
+                     <hi>Cancer,</hi> Wells Cellars Trenches Ciſterns, a place where water is kept, or doth ſtand great waters, Rivers
+<pb n="7" facs="tcp:61470:8" rendition="simple:additions"/>
+Marſhy grounds, ditches with Ruſhes and all kind of moiſt and ſlabby places.</p>
+                  <p>
+                     <hi>Leo,</hi> Fire places as Chimneys Stoves Furnaces Ovens, many times a place where a dog is kept, a Stable, a Park or Forreſt or ground newly taken in.</p>
+                  <p>
+                     <hi>Virgo,</hi> Studdies, Cloſets Coffers Cheſts Trunks Cupboards Dayry-houſes, a reſting place for women, Ware-houſes, a place of great Cattle as Horſes Oxen Calves, &amp;c.</p>
+                  <p>
+                     <hi>Libra,</hi> Grounds near Windmils out houſes ſides of Hills tops of Mountains a place of Hawking or Hunting, in houſes high Chambers garrets, one Chamber within another.</p>
+                  <p>
+                     <hi>Scorpio,</hi> Sinks Kitchins Waſhouſes, a place of creeping venomous Beaſts, quaggy and ſtinking grounds, Ruinous houſes Caves and Priſons, and likewiſe Gardens Orchards and Vine-yards.</p>
+                  <p>
+                     <hi>Sagitarius,</hi> A Stable of great beaſts, as Horſes Cows Oxen, and in houſes
+<pb n="8" facs="tcp:61470:9" rendition="simple:additions"/>
+upper rooms where fire is or hath been kept.</p>
+                  <p>
+                     <hi>Capricornus,</hi> A place where old tools for husbandry are laid up, dark places in houſes near the ground or threſhold.</p>
+                  <p>
+                     <hi>Aquaries,</hi> Roofs or Eves in houſes hilly grounds newly digged, a place of running waters full of pits, and grounds where no houſe is nigh them.</p>
+                  <p>
+                     <hi>Piſces,</hi> Watry grounds Springs Ri<g ref="char:EOLhyphen"/>vers, Water-mills moats about houſes Wells Pumps Ciſterns Cunduits, and places where water is kept. Note if the <hi>Moon</hi> be ſignificator and in <hi>Piſes</hi> the the thing is hidden in a Well.</p>
+               </div>
+               <div type="section">
+                  <head>To know in what part of the houſe the thing miſſing is in.</head>
+                  <p>Firſt conſider the ſign Aſcending, and the ſign the Lord of the Aſcendant is in and in what quarter, ſecondly the ſign the Lord of the ſecond is in, third<g ref="char:EOLhyphen"/>ly
+<pb n="9" facs="tcp:61470:9"/>
+the ſign of the fourth, and the ſign the Lord of the fourth is in, and the Planet in the fourth, fourthly the ſign the <hi>Moon</hi> is in, fifthly the ſign where the part of fotrune is, ſixtly the ſign the Lord of the hour is in, and Collect all theſe teſtimonies together, and accor<g ref="char:EOLhyphen"/>ding to the Major teſtimony ſo Judge.</p>
+                  <p>
+                     <hi>Example.</hi>
+                  </p>
+                  <p>If that the Major part of theſe Teſti<g ref="char:EOLhyphen"/>monies be Aiery ſigns, it is in ſome Chamber Garret or Eves of the houſe or in ſome Hay-loft, and ſo Judge of all the reſt.</p>
+                  <p>If that the principal ſignificator of the Major part of theſe be dropping betwixt two ſigns, the thing miſſing is fallen down betwixt two Rooms or between the Wainſcoat and walls, or dropt between ſome flit or hole or the like.</p>
+                  <p>
+                     <pb n="10" facs="tcp:61470:10"/>Note that earthy Signs ſignifie neer the Earth, low places in houſes, Cellars low rooms ſtore-houſes for Corn and Hay, places where old tools for huſ<g ref="char:EOLhyphen"/>bandry are laid up, dark places or the ground near the threſhold or the like.</p>
+                  <p>In fiery Signs where fire is kept.</p>
+                  <p>If watrey Signs where water is kept a finke or ſome moiſt place, or a place near ſome Ciſtern, or where water doth conſtantly ſtand.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>♈</cell>
+                           <cell>Eaſt.</cell>
+                        </row>
+                        <row>
+                           <cell>♉</cell>
+                           <cell>S. by E.</cell>
+                        </row>
+                        <row>
+                           <cell>♊</cell>
+                           <cell>W. by S.</cell>
+                        </row>
+                        <row>
+                           <cell>♋</cell>
+                           <cell>North.</cell>
+                        </row>
+                        <row>
+                           <cell>♌</cell>
+                           <cell>E. by N.</cell>
+                        </row>
+                        <row>
+                           <cell>♍</cell>
+                           <cell>S. by W.</cell>
+                        </row>
+                        <row>
+                           <cell>♎</cell>
+                           <cell>Weſt.</cell>
+                        </row>
+                        <row>
+                           <cell>♏</cell>
+                           <cell>N. by. E.</cell>
+                        </row>
+                        <row>
+                           <cell>♐</cell>
+                           <cell>E. by S.</cell>
+                        </row>
+                        <row>
+                           <cell>♑</cell>
+                           <cell>South.</cell>
+                        </row>
+                        <row>
+                           <cell>♒</cell>
+                           <cell>W. by N.</cell>
+                        </row>
+                        <row>
+                           <cell>♓</cell>
+                           <cell>N. by W.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>This Table doth ſhow what part every ſign doth ſignifie, and by it you may know in what part of the houſe the Goods are in, likewiſe it may direct the Querent to what part the Thief is gone, which afterwards will be de<g ref="char:EOLhyphen"/>ſcribed more at large.</p>
+               </div>
+               <div type="section">
+                  <pb n="11" facs="tcp:61470:10"/>
+                  <head>That the Goods are ſtolen.</head>
+                  <p>If the Lord of the Houſe of the <hi>Moon,</hi> or the Lord of the Second do ſeparate from any Planet it is ſtolen.</p>
+                  <p>If a Perigrine Planet give virtue to the <hi>Moon,</hi> or the <hi>Moon</hi> to him it is ſtolen.</p>
+                  <p>If the Lord of the Aſcendant do give virtue to the ſignificator of the Thief it is ſtolen.</p>
+                  <p>If that the Significator of the Thief be Perigrine it is ſtolen.</p>
+                  <p>If the ſignificator of the Thief be in <hi>Conjunction,</hi> or Aſpect the Lord of the Aſcendant by <hi>Quartile</hi> or <hi>Oppoſition</hi> it is ſtolen.</p>
+                  <p>If the ſignificator of the Thief be<g ref="char:EOLhyphen"/>hold the <hi>Moon</hi> by <hi>Quartile</hi> or <hi>Conjun<g ref="char:EOLhyphen"/>ction</hi> it is ſtolen.</p>
+                  <p>If any Planet be in the Aſcendant and give virtue to the ſignificator of the Thief it is ſtolen.</p>
+                  <p>
+                     <pb n="12" facs="tcp:61470:11"/>If a Perigrine Planet be in the Aſ<g ref="char:EOLhyphen"/>cendant or Second Houſe it is ſtolen.</p>
+                  <p>If that the part of fortune or his Lord be unfortunate it is ſtolen.</p>
+                  <p>If none of theſe aforeſaid Teſtimo<g ref="char:EOLhyphen"/>nies be it is not ſtolen.</p>
+                  <p>But nevertheleſs in your Figure exactly obſerve and compare the teſtimonies, for not ſtolen, and theſe teſtimonies for ſtolen and ſee which is moſt weigh<g ref="char:EOLhyphen"/>tieſt and according give Judgement.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>How to find out the ſignificator of the Thief.</head>
+               <p>The ſignificator of the Theif, is a Planet perigrine in any of the four An<g ref="char:EOLhyphen"/>gles or ſecond houſe, if not take the Lord of the ſeventh for he is the ſigni<g ref="char:EOLhyphen"/>ficator of the Thief.</p>
+               <div type="section">
+                  <pb n="13" facs="tcp:61470:11"/>
+                  <head>A deſcription of the Thief by <hi>Saturn</hi> in any of the <hi>12</hi> Signs.</head>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Aries.</hi>
+                     </head>
+                     <p>The Theif hath a hoarſe voice, high forehead, great and full face al<g ref="char:EOLhyphen"/>moſt black eyes, ſmall hair on his Chin but thick on his head.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Taurus.</hi>
+                     </head>
+                     <p>A large great forehead, an ill favou<g ref="char:EOLhyphen"/>red countenance, and looking down<g ref="char:EOLhyphen"/>wards very ſad and Melancholly, and an inconſtant perſon having a thick noſe.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Gemini.</hi>
+                     </head>
+                     <p>The Thief is moderate in his man<g ref="char:EOLhyphen"/>ners, betwixt wickedneſs and gentle<g ref="char:EOLhyphen"/>neſs to them that are in his company,
+<pb n="14" facs="tcp:61470:12"/>
+one of a fair voice and a very well ſpo<g ref="char:EOLhyphen"/>ken perſon, and gives good Councill and he eſteems much of himſelf broad ſhoulders a ſmall waſt his beard of the Common faſhion and he hath but little hair on his head.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Cancer.</hi>
+                     </head>
+                     <p>Black eyes a ſmall face a broad great forehead a great ſpace betwixt his eyes and one that is an unconſtant perſon.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Leo.</hi>
+                     </head>
+                     <p>A lean face hollow eyes, a thick neck great Armes broad ſhoulders and looking downwards, one that is very forgetfull.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Virgo.</hi>
+                     </head>
+                     <p>A great head, and his hands very
+<pb n="15" facs="tcp:61470:12"/>
+hairy one of a profound Judgement yet unconſtant in mind.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Libra.</hi>
+                     </head>
+                     <p>A great and a large forehead, long neck, black hair, his noſe ſtretcheth our and often the nails of his hands goes off and he is one well deſcended.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Scorpio.</hi>
+                     </head>
+                     <p>A long and narrow forehead, fowl great ſhoulders and feet, a high ſtiffe neck, the whole body in general but mean, generally in the ſign he hath much hair upon his head.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Sagitarius.</hi>
+                     </head>
+                     <p>An indifferent great body and ſtraight, a great noſe, and a great Countenance, his neck thick and
+<pb n="16" facs="tcp:61470:13"/>
+hairy, likewiſe a great mocker.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Capricornus.</hi>
+                     </head>
+                     <p>A long face and yellowiſh, a ſharp voyce, a ſtraight forehead thick feet and hands, and likewiſe very rough and hairy and a ſtammering in his ſpeech.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Aquaries.</hi>
+                     </head>
+                     <p>A great head, round eyes a thine face towards his Chin, and his imploy<g ref="char:EOLhyphen"/>ment moſt in moiſtneſs, as a Dyer, Shipwright or a fiſherman, &amp;c.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>Saturn</hi> in <hi>Piſces.</hi>
+                     </head>
+                     <p>Being ſtrong and fortunate by good Aſpects, he is a man of a good deſcent, and a noble Gentleman born, though <hi>Saturn</hi> be evil of himſelf, yet in this ſign he hath the ſimilitude of good manners,
+<pb n="17" facs="tcp:61470:13"/>
+great eyes, unequall teeth, one of little ſpeech drawing his words as though it were with his tongue and ſwift of body.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>A ſhort deſcription of the other Planets <hi>Jupiter, Mars, Sol Venus</hi> and <hi>Mercury.</hi>
+                  </head>
+                  <p>Furthermore if the ſignificator be <hi>Jupiter,</hi> and in the place of <hi>Saturn,</hi> it doth ſignifie a white mixt with yellow, if a man he hath a round Beard, if ei<g ref="char:EOLhyphen"/>ther man or woman they have ſome darker ſight then ordinary, one of ſome Gentility.</p>
+                  <p>If <hi>Mars</hi> be ſignificator in the place of <hi>Jupiter,</hi> the Thief ſhall be of a yel<g ref="char:EOLhyphen"/>lowiſh complexion drawing to redneſs a round face, a long and a ſharp Chin, his brows bent like a bow or horn of the <hi>Moon,</hi> whoſe end doth reach to his noſe, a thin beard, light and ſwift of going about his own matters, one of a
+<pb n="18" facs="tcp:61470:14"/>
+ſharp wit and very bold, and confi<g ref="char:EOLhyphen"/>dent.</p>
+                  <p>If the <hi>Sun</hi> be ſignificator and in the place of <hi>Mars,</hi> the Thief is of a whitiſh brown, a very round face, a ſinger, a Taylor or a bocher.</p>
+                  <p>If <hi>Venus</hi> be ſignificator in the place of the <hi>Sun,</hi> he or ſhe is white, and void of all blots or marks, and hath an honeſt and a comely countenance, and very comely eyed, wonderfull gentle loving and tender.</p>
+                  <p>If <hi>Mercury</hi> be in the place of <hi>Venus</hi> &amp; ſignificator, it ſignifies a thin beard, little hair, of a ſandy complexion, ſomewhat long viſaged, full of ſpeech and chat<g ref="char:EOLhyphen"/>tering, without reaſon or diſcretion. but very ingenious and witty.</p>
+               </div>
+               <div type="section">
+                  <head>A deſcription of the Theif by the <hi>Moon</hi> being in any of the <hi>12</hi> ſigns.</head>
+                  <p>The <hi>Moon</hi> ſignificator of the Theif
+<pb n="19" facs="tcp:61470:14"/>
+and in the firſt half of <hi>Aries,</hi> gives a mean ſtature, a thick ruddiſh coullour<g ref="char:EOLhyphen"/>ed hair in the luſt half of <hi>Aries</hi> mean ſtature and lean, a great head, high forehead, great eyes, long viſiage, a long neck, and ſtraight ſhoulders &amp;c.</p>
+                  <p>The <hi>Moon</hi> in the firſt half of <hi>Taurus,</hi> gives the body to be groſs: but in the laſt half, lean and mean, a fair ſtature black hair, and rough like a thornbuſh.</p>
+                  <p>The <hi>Moon</hi> in the firſt half of <hi>Gemi<g ref="char:EOLhyphen"/>ni,</hi> gives the body to be mean and lean, but in the laſt half groſs and thick, a round face, little mouth, long noſe, a fair voice, and one of a good Councell.</p>
+                  <p>The <hi>Moon</hi> in the firſt half of <hi>Cancer,</hi> gives a mean ſtature and lean, but in the laſt half ſome what groſs and tall, yet ſomewhat crooked, black eyes ſomewhat impedited, crooked teeth, and thehar inclining to a dark brown or quite black.</p>
+                  <p>
+                     <pb n="20" facs="tcp:61470:15"/>The <hi>Moon</hi> in the firſt half of <hi>Leo,</hi> gives a ſtature and thick in the laſt half tall and lean ſmooth hair, a ſmooth face, a little head, yet great eyes, ſhort neck, one that is very raſh and of great ſtrength, and likewiſe a great voice.</p>
+                  <p>The <hi>Moon</hi> in the firſt half of <hi>Virgo,</hi> the body is inclinable to groaſneſs, in the laſt half, to leanneſs, ſmall eyes, indifferent long viſaged, a long neck, much hair and of a browniſh colour.</p>
+                  <p>The <hi>Moon</hi> in the firſt half of <hi>Libra,</hi> gives the body to be groſs, in the laſt half lean, a mean ſtature, a long face, long legs, a fair voice, of a laughing countenance, a lover of women, and beloved of women.</p>
+                  <p>The <hi>Moon</hi> in the firſt half of <hi>Scorpio</hi> gives a mean tall ſtature, ſomewhat lean<g ref="char:punc">▪</g> but in the laſt half groſs a ſmall face, little mouth, broad thick lips, and very long legs and of at alborn coloured hair.</p>
+                  <p>
+                     <pb n="21" facs="tcp:61470:15" rendition="simple:additions"/>The <hi>Moon</hi> in the firſt half of <hi>Sagitari<g ref="char:EOLhyphen"/>us,</hi> gives a tall ſtature, ſomewhat lean, but in the laſt half groſs, a fair ſtature, a long face, a great flat noſe, and ſome<g ref="char:EOLhyphen"/>times Canker eaten, a ſandy coloured hair, and one that delights much in Ri<g ref="char:EOLhyphen"/>ding, and hath been hurt by ſome four footed beaſt, or elſe by Iron, chiefly if the Moon be unfortunate.</p>
+                  <p>The Moon in the firſt half of <hi>Capri<g ref="char:EOLhyphen"/>cornus,</hi> gives a mean ſtature and lean, but in the laſt half ſemewhat groſs, a browniſh coloured hair, a narrow forehead, thick lips, broad noſe, great hands; and his body looks as if it were withered, and one that is very wrath<g ref="char:EOLhyphen"/>full.</p>
+                  <p>The Moon in the firſt half of <hi>Aqua<g ref="char:EOLhyphen"/>ries,</hi> gives a ſhort mean ſtature, in the laſt half mean and lean, one that much uſeth the water, and hath one leg ſhorter then the other, and if the Moon be unfortunate, hath been ei<g ref="char:EOLhyphen"/>ther
+<pb n="22" facs="tcp:61470:16"/>
+hurt by Iron, or elſe hath had a brand in the hand.</p>
+                  <p>The Moon in the firſt half of <hi>Piſces,</hi> gives a mean ſtature ſomewhat groſs, but in the laſt half mean, a great head, round eyes, and a great noſe.</p>
+               </div>
+               <div type="section">
+                  <head>The Marks of the Thief.</head>
+                  <p>Look to the Moon, and if ſhe be ſignificator, and in <hi>Scorpio,</hi> and infor<g ref="char:EOLhyphen"/>tunate by <hi>Saturn</hi> or <hi>Mars,</hi> and <hi>Venus</hi> have any Aſpect by the Moon, the par<g ref="char:EOLhyphen"/>ty is hurt in the privy parts, by ſome woman, <hi>A Wincheſter Gooſe,</hi> generally if that the Moon behold the ſignifica<g ref="char:EOLhyphen"/>tor of the Thief or have any dignities where he is.</p>
+                  <p>If the Moon be ſignificator of the
+<pb n="23" facs="tcp:61470:16"/>
+Thief, and ſhe unfortunate, it ſhows ſome defect in the parties eye-ſight, cheifly if ſhe be in the Aſcendant af<g ref="char:EOLhyphen"/>flicted by Saturn Mars or the Sun.</p>
+                  <p>If <hi>Mercury</hi> be ſignificator, and in <hi>Quartile</hi> or <hi>Oppoſition</hi> of <hi>Saturn,</hi> it notes the Thief to have ſome impedi<g ref="char:EOLhyphen"/>ment in his ſpeech.</p>
+                  <p>If <hi>Venus</hi> be ſignificator and in any the ſigns of <hi>Mars,</hi> it notes a woman in<g ref="char:EOLhyphen"/>famous for whoredom, <hi>Venus</hi> ſignifica<g ref="char:EOLhyphen"/>tor and in <hi>Quartile</hi> or <hi>Opoſition</hi> to <hi>Mars</hi> ſignifies the like.</p>
+                  <p>
+                     <hi>Venus</hi> ſignificator of the Thief, and in <hi>Leo,</hi> or with the <hi>Dragons-tail,</hi> denotes the Thief to have a Copper noſe.</p>
+                  <p>
+                     <hi>Saturn</hi> or <hi>Mars</hi> in <hi>Oppoſition</hi> to the ſignificator of the Thief ſhows that the Thief is ſick or will be ſhortly.</p>
+                  <p>
+                     <hi>Venus</hi> ſignificator and void of courſe gives a Mark in the face, or a gogle eye or a Wart, but if ſlow of motion, then
+<pb n="24" facs="tcp:61470:17"/>
+ſhe gives a hollow Mould.</p>
+                  <p>If that the Moon have any dignities where a Perigrine Planet is, then there is a Mark where the Moon is, or where that Perigine Planet is, the ſign will diſcover in what part of the body it is in.</p>
+                  <p>If that the Moon be in <hi>Quartile,</hi> or <hi>Oppoſition</hi> to the ſignificator of the Thief in the ſecond houſe, it notes a Mark in the neck, if in the third houſe in the Arms and ſhoulders and ſo in order &amp;c.</p>
+                  <p>If that the Moon be weak or in <hi>Quartile</hi> or <hi>Oppoſition</hi> to <hi>Saturn</hi> or <hi>Mars,</hi> it denotes a mark to be in the ſign where the Moon is.</p>
+                  <p>If that the Lord of the ſixth be in<g ref="char:EOLhyphen"/>fortunate, there is a Mark in the ſign where he is, and likewiſe in the ſign of the cuſpe of the ſixth.</p>
+                  <p>Alſo obſerve the ſame Method by the ſign Aſcending, and by the ſign that
+<pb n="25" facs="tcp:61470:17"/>
+the Lord of the Aſcendant is in. If the Lord of the Aſcendant be infortunate then it is certain.</p>
+                  <p>If <hi>Saturn</hi> be infortunate in the aſ<g ref="char:EOLhyphen"/>cendant, gives a bruiſe or the like in the head or face, <hi>Mars</hi> infortunate in the Aſcendant ſignifies a cut in the head or face, or elſe damnified by Iron.</p>
+                  <p>If that the <hi>Sun</hi> be ſignificator and in fiery ſigns and infortunate, it doth note a bald head and ſhort curled hair. But unfortunate in watry ſigns, it ſignifies the Thief to have a ſcal'd head:</p>
+               </div>
+               <div type="section">
+                  <head>Whether the Thief be of the family of the Querent or not</head>
+                  <p>If that the Lord of the Aſcendant be in the Aſcendant in his own ſign<g ref="char:punc">▪</g> then is the querent robbed by himſelf<g ref="char:punc">▪</g> 
+                     <hi>probatum eſt.</hi>
+                  </p>
+                  <p>If that a Planet be in the firſt houſe and his ſign be on the ſecond, then was
+<pb n="26" facs="tcp:61470:18" rendition="simple:additions"/>
+the querent robbed by his own coun<g ref="char:EOLhyphen"/>cell.</p>
+                  <p>If a Planet be in the firſt houſe, and that Planets ſign be on the third houſe, and that ſign be feminine, ſay he was robbed by his ſiſter or ſome Kinſwo<g ref="char:EOLhyphen"/>man or ſome neighbour near him, and ſo in order of the reſt of the houſes.</p>
+                  <p>If that both the <hi>Luminaries</hi> behold the Aſcendant, the Thief is one of the family.</p>
+                  <p>The Lord of the ſeventh in the Aſ<g ref="char:EOLhyphen"/>cendant the ſame.</p>
+                  <p>If that the <hi>Sun</hi> and <hi>Moon</hi> be both in their own houſes, it is one of the fa<g ref="char:EOLhyphen"/>mily.</p>
+                  <p>But if only one of the lights doth behold the Aſcendant, the Thief is one that is a familiar in the houſe but doth not dwell there.</p>
+                  <p>If the Lord of the Aſcendant be joy<g ref="char:EOLhyphen"/>ned with a Planet near the Aſcendant, notes the Thief to be a private Thief in the houſe.</p>
+                  <p>
+                     <pb n="27" facs="tcp:61470:18"/>If the Lord of the Aſcendant be in the ſecond or ſixth, it is one of the houſhould ſervants.</p>
+                  <p>If the Lord of the ſixth be in the ſe<g ref="char:EOLhyphen"/>cond, or in the Aſcendant, it is a ſervant belonging to the houſe.</p>
+                  <p>If the Lord of the ſeventh be in the ſixth or eight from his own houſe, it is a ſervant, but if in his own houſe, then ſome Jolly fellow of great name and fame in the houſe.</p>
+               </div>
+               <div type="section">
+                  <head>Which of the houſe may be ſuſpested for the Theft.</head>
+                  <p>If the <hi>Sun</hi> be ſignificator, it ſignifies the Father, Uncle, Grand-father or Maſter.</p>
+                  <p>The <hi>Moon</hi> the Mother, Siſter or Nurſe, or otherwiſe ſome Tankerd-bearer, or a Water-woman; a Chair<g ref="char:EOLhyphen"/>woman or the like.</p>
+                  <p>If <hi>Venus,</hi> the Wife or Miſtreſs, chiefly
+<pb n="28" facs="tcp:61470:19"/>
+in the tenth or ſeventh houſe.</p>
+                  <p>
+                     <hi>Saturn</hi> in the fourth accuſeth the Father, or ſome old ſerving man or woman.</p>
+                  <p>
+                     <hi>Jupiter</hi> ſignificator, accuſeth ſome Gentleman of a good family that hath ſtained the reputation of his kindred, a great wanderer, and is not ſuſpected and probably may be a gueſt in the houſe, and of a Sanguine complexion.</p>
+                  <p>
+                     <hi>Mars</hi> Significator denotes a Brother or a Prentice, a Son or a Daughter of the Querent.</p>
+                  <p>If <hi>Mercury</hi> it is ſome familiar friend, if he be in the eleventh houſe, other<g ref="char:EOLhyphen"/>wiſe ſome runner of Errands, or ſome by ſervant of the houſe.</p>
+                  <p>Whether the Thief be of the kin<g ref="char:EOLhyphen"/>dred of the Querent, or ſome neigh<g ref="char:EOLhyphen"/>bour friend or ſtranger.</p>
+                  <p>If the <hi>Sun</hi> be in <hi>Oppoſition</hi> to the Aſ<g ref="char:EOLhyphen"/>cendant, it is an overthwart neigh<g ref="char:EOLhyphen"/>bour.</p>
+                  <p>
+                     <pb n="29" facs="tcp:61470:19"/>If the Lord of the ſeventh behold the Aſcendant by <hi>Trine</hi> or <hi>Sextile,</hi> it is an neighbour.</p>
+                  <p>If the <hi>Sun</hi> and <hi>Moon</hi> be both in their Triplicities it is a neighbour.</p>
+                  <p>If the ſignificator of the Thief be in the houſe or exaltation of the Lord of the Aſcendant, the Thief is of the kin<g ref="char:EOLhyphen"/>dred of the Querent.</p>
+                  <p>The Lord of the Aſcendant being in the houſe or exaltation of the Thief, it denotes Kindred.</p>
+                  <p>The <hi>Sun</hi> and <hi>Moon</hi> beholding each other by a <hi>Trine</hi> Aſpect it denotes kindred.</p>
+                  <p>The Lord of the third or fifth in the Aſcendant, or applying to the Lord of the Aſcendant denote kindred.</p>
+                  <p>The <hi>Sun</hi> and <hi>Moon</hi> both in their faces, the Thief doth call the Querent Cozen.</p>
+                  <p>The Lord of the Aſcendant in the ſecond or ſixth, the Thief is one of
+<pb n="30" facs="tcp:61470:20"/>
+the huſhold Servants.</p>
+                  <p>The ſignificator of the Thief in the ninth houſe it is a ſtranger.</p>
+                  <p>The ſignificator of the Thief in a moveable ſign Aſpected of the <hi>Moon</hi> or <hi>Mercury,</hi> or in their houſes, or in any of their dignities it is a ſtranger.</p>
+                  <p>If that the ſignificator be in an An<g ref="char:EOLhyphen"/>gle in the terms of <hi>Jupiter</hi> or the <hi>Sun</hi> the Thief is more noble then the Que<g ref="char:EOLhyphen"/>rent.</p>
+                  <p>If that the <hi>Sun</hi> and <hi>Moon</hi> be both in the ſecond, third, fourth, fifth, ninth, tenth, or eleventh houſe, it is ſignified that one of the houſe committed the fact.</p>
+                  <p>When you find the Thief to be one of the houſhold, behold the ſignificator and ſo Judge as I deſcribed before.</p>
+                  <p>Note that the ſignificator of the Thief, is a Planet perigrine in any of the four Angles, but if none be there, then take the Lord of the ſeventh, he
+<pb n="31" facs="tcp:61470:20"/>
+is the ſignificator of the Thief.</p>
+               </div>
+               <div type="section">
+                  <head>To know how many Thieves there are.</head>
+                  <p>The ſignificator of the Thief being in a fruitfull ſign it notes more then one Thief.</p>
+                  <p>The ſignificator of the Thief in a double bodied ſign the ſame.</p>
+                  <p>If that the <hi>Sun</hi> and <hi>Moon</hi> do behold each other, it ſignifies the ſame.</p>
+                  <p>If that the ſignificator of the Thief be in a ſign, where there is more then one Perigrine Planet, it notes more Theeves then one.</p>
+                  <p>The <hi>Moon</hi> being in the fourth houſe in a common ſign, there is more then one Thief.</p>
+                  <p>If that the <hi>Moon</hi> and <hi>Mercury</hi> be in equall ſigns it notes more Theeves then one.</p>
+                  <p>So many Peregrine Planets that there is but chiefly in the ſecond or ſe<g ref="char:EOLhyphen"/>venth
+<pb n="32" facs="tcp:61470:21"/>
+houſes ſo many Theeves there are.</p>
+                  <p>If that the ſignificator of the Thief be in a fixed ſign it ſignifies but one Thief and no more.</p>
+                  <p>If that the <hi>Moon</hi> be in any Angle in a fixed ſign, it notes onely one Thief.</p>
+                  <p>If that the <hi>Moon</hi> and <hi>Mercury</hi> be in unequall ſigns then there is onely one Theif.</p>
+               </div>
+               <div type="section">
+                  <head>To know whether the Thief be a man or woman.</head>
+                  <p>If that the Aſcendant be a Maſculine ſign and the Lord of the hour a Maſ<g ref="char:EOLhyphen"/>culine Planet the Thief is a man.</p>
+                  <p>If otherwiſe they be feminine it notes a woman</p>
+                  <p>If that one be Maſculine and the o<g ref="char:EOLhyphen"/>ther feminine, it ſhews two Theeves, <hi>viz.</hi> a man and a woman.</p>
+                  <p>Alſo if that the ſignificator of the Thief be in a Maſculine ſign and the
+<pb n="33" facs="tcp:61470:21"/>
+Moon in a Maſculine ſign it denotes a man.</p>
+                  <p>If in faeminine ſigns then a woman, According to the major part of teſti<g ref="char:EOLhyphen"/>monies give judgement.</p>
+               </div>
+               <div type="section">
+                  <head>How to know the Age of the Thief.</head>
+                  <p>If that the <hi>Sun</hi> be ſignificator of the <hi>Theif</hi> and he betwixt the Aſcen<g ref="char:EOLhyphen"/>dant and the tenth houſe but cheifly in <hi>Aries, Taurus</hi> or <hi>Gemini,</hi> it notes the <hi>Thief</hi> very young almoſt in Childhood.</p>
+                  <p>From the tenth houſe, to the ſe<g ref="char:EOLhyphen"/>venth houſe, but cheifly in <hi>Cancer, Leo</hi> or <hi>Virgo,</hi> it ſignifieth youthfull years.</p>
+                  <p>From the ſeventh to the fourth houſe, cheifly in <hi>Libra, Scorpio</hi> or <hi>Sagitarius</hi> it ſignifies the Thief is of a middle age.</p>
+                  <p>If the ſignificator of the Theif be be<g ref="char:EOLhyphen"/>tween the fourth houſe and the Aſ<g ref="char:EOLhyphen"/>cendant it ſignifies old age.</p>
+                  <p>If that the ſignifitator of the Thief
+<pb n="34" facs="tcp:61470:22"/>
+be in the houſe of <hi>Saturn</hi> or Aſpected of him or in the latter degrees of a ſign it ſignifies age.</p>
+                  <p>If that the ſignifitator of the Theif be direct and a heavy planet, or joyned with a heavy Planet, it ſignifies good Age, but if Retrograde then old.</p>
+                  <p>If that the ſignificator of the Thief be joyned to a Planet that is Retro<g ref="char:EOLhyphen"/>grade it ſignifies old age.</p>
+                  <p>Mars notes middle age, but not ſo much as Jupiter, nor Jupiter ſo much as Saturn.</p>
+                  <p>The Moon or a Perigrine Planet in the firſt degrees of a ſign, notes youth in the middle of a ſign, Riper years in the latter degrees of the Moon old age.</p>
+                  <p>If that Mars, Venus or Mercury be ſignificators of the Thief, according as poſited in the four quarters of the ſigns, ſo give judgement as before di<g ref="char:EOLhyphen"/>rected.</p>
+                  <p>The Moon increaſing the Thief is
+<pb n="35" facs="tcp:61470:22"/>
+young, the Moon decreaſing the Thief is old.</p>
+                  <p>The Moon in the beginning of the moneth notes young, in the middle of the moneth middle age, in the end of the moneth it ſignifies old age.</p>
+                  <p>Two Perigrine Planets that are ſig<g ref="char:EOLhyphen"/>nificators in Quartile or Oppoſition of one another, eſpecially from the firſt to the ſeventh houſe, it ſignifies that one Thief will accuſe another, <hi>proba<g ref="char:EOLhyphen"/>tum eſt.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>To know whether the Thief be in town or not.</head>
+                  <p>Behold the ſignificator of the Thief, and if that you find him in the end of a ſign direct or ſeparating from combu<g ref="char:EOLhyphen"/>ſtion, or applying to a Planet in a Ca<g ref="char:EOLhyphen"/>dent houſe, ſay that he is gone or going out of town.</p>
+                  <p>Alſo if the Lord of the Aſcendant
+<pb n="36" facs="tcp:61470:23"/>
+be in one quarter, and the Moon with the ſignificator of the Thief be in ano<g ref="char:EOLhyphen"/>ther above 90 degrees aſunder. It de<g ref="char:EOLhyphen"/>notes the Thief is out of Town a pret<g ref="char:EOLhyphen"/>ty large diſtance from the querent.</p>
+                  <p>But if they be in Angles and apply<g ref="char:EOLhyphen"/>ing to Planets in Angles, then ſay that the Thief is no large diſtance from the Querent, more eſpecially if that the Sun and Moon be both in one quarter of heaven.</p>
+                  <p>If that you find the ſignificator of the Thief going out of one ſign into a<g ref="char:EOLhyphen"/>nother, the Thief is either gone or go<g ref="char:EOLhyphen"/>ing out of town.</p>
+                  <p>Say the ſame if you find the ſignifi<g ref="char:EOLhyphen"/>cator of the Thief departing from the Sun beams.</p>
+                  <p>And according to the place and quarter that the ſignificator of the Thief is in, and likewiſe the ſign that he is in, judge that way he is gone.</p>
+                  <p>If that the ſignificator of the Thief,
+<pb n="37" facs="tcp:61470:23"/>
+or one of them be in Angles, he is not gone out of Town as yet but is near the Querent.</p>
+                  <p>If in ſuccedant houſes not far from him, and chiefly if that the Lord of the Aſcendant and the Moon be both in one quarter.</p>
+                  <p>If the ſignificator of the Theif be in a Cadent houſe then he is gone far, eſpecially if that the Lord, the Aſcen<g ref="char:EOLhyphen"/>dant and the Moon, be more then 90 degrees aſunder.</p>
+                  <p>If that the Lord of the ſeventh be in Angles with the Lord of the ſecond, the Thief is not out of the Town and Pariſh of the Querent.</p>
+               </div>
+               <div type="section">
+                  <head>Whether the goods be with or near the Querent.</head>
+                  <p>The Lord of the Aſcendant in an Angle, the goods are in his hands.</p>
+                  <p>If that the Lord of the Aſcendant
+<pb n="38" facs="tcp:61470:24"/>
+and the Lord of the hour be both in Angles, she goods are in the querents hands <hi>probatum eſt.</hi>
+                  </p>
+                  <p>If that the Lord of the Aſcendant and the Lord of the houſe of the Moon be both in Angles, the goods are in the querents hands and are moveable.</p>
+                  <p>If that any of theſe Lords be in An<g ref="char:EOLhyphen"/>gles, and in Trine or Sextile to the Lord of the Aſcendant, the goods ſhall be had again.</p>
+                  <p>If that the Lord of the Aſcendant, and the Lord of the houre be both in ſuccedant houſes, the goods are about the owner.</p>
+                  <p>If that the Lord of the ſecond be in the Aſcendant, they ſhall be found and not known from whence they come.</p>
+                  <p>If that the Lord of the houſe of the Moon be moveable, they are about the owner.</p>
+                  <p>If that the Lord of the tearm of the
+<pb n="39" facs="tcp:61470:24"/>
+Moon or the Lord of the ſecond houſe be in ſuccedant houſes, they are not far from the owner.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>To know which way the Thief dwells from the Querent.</head>
+               <p>Look in what ſign and quarter the ſignificator of the Thief and the Moon is in, and accordingly judge which way the Thief dwells from the Que<g ref="char:EOLhyphen"/>rent.</p>
+               <div type="section">
+                  <head>Tokens of the Thiefs houſe.</head>
+                  <p>If that the Moon be in Conjunction Quartile or Oppoſition of Saturn, the door or gate of the Thief is broken or black.</p>
+                  <p>In Trine or Sextile to Saturn men<g ref="char:EOLhyphen"/>ded again.</p>
+                  <p>The Moon in Oppoſition Quartile or Oppoſition of Mars, the door or
+<pb n="40" facs="tcp:61470:25"/>
+gate of the Thieves houſe is burnt or damnified by Iron.</p>
+                  <p>In Trine or Sextile to Mars, mended again.</p>
+                  <p>If that the Moon is unfortunate the Door is either Crackt or broken.</p>
+                  <p>If that the Moon be increaſing in light or in a fixed ſign, his gate or door is part under the earth, or the houſe ſtandeth under a banck ſide.</p>
+                  <p>The Moon in fixed or moveable ſigns he hath but one door.</p>
+                  <p>The Moon in common ſigns more then one door.</p>
+                  <p>The Moon in a moveable ſign the gate or door is above the earth, <hi>viz.</hi> a ſtep or two to go up to it.</p>
+                  <p>Note in what part of heaven the Moon in is, and in that part of the houſe the door openeth.</p>
+               </div>
+               <div type="section">
+                  <pb n="41" facs="tcp:61470:25"/>
+                  <head>Of the diſtance of place.</head>
+                  <p>Behold how many degrees are be<g ref="char:EOLhyphen"/>twixt the ſignificator of the Thief and the Moon, and narrowly obſerve whe<g ref="char:EOLhyphen"/>ther the ſigns are fixt moveable or Common.</p>
+                  <p>If in fixed ſigns account for every degree a mile, if in moveable ſigns ſo many Rods.</p>
+                  <p>If in Common ſigns, ſo many tens of miles.</p>
+                  <p>Or look what diſtance there is be<g ref="char:EOLhyphen"/>twixt the Aſcendant and his Lord, ſuch is the diſtance between the thing loſt and the place.</p>
+                  <p>Or look how many degrees the ſig<g ref="char:EOLhyphen"/>nificator is in his ſign, ſo many miles are the cattle loſt or ſtrayed, and the place where the Lord of the fourthis, there is the place ſignified.</p>
+                  <p>Likewiſe note how many degrees are betwixt the Lord of the hour and
+<pb n="42" facs="tcp:61470:26"/>
+the Lord of the ſeventh houſe, ſo ma<g ref="char:EOLhyphen"/>ny miles the Thief is gone.</p>
+                  <p>If that the Moon be within 30 de<g ref="char:EOLhyphen"/>grees of the Lord of the Aſcendant the Thief is near the looſer of the goods.</p>
+                  <p>If the ſignificator of the Thief or the Moon be within 70 degrees of the Lord of the Aſcendant, then he is within the town or Pariſh of him that loſt the goods.</p>
+                  <p>If 90 degrees from the Lord of the Aſcendant, then the Thief is out of town.</p>
+                  <p>If that the Lord of the ſeventh be in a ſtrong Angle, he is not out of the town where the Theft was done.</p>
+               </div>
+               <div type="section">
+                  <head>Whether the Thief ſhall be known or not.</head>
+                  <p>Moſt Planets in Cadent houſes, the Thief ſhall be openly known.</p>
+                  <p>The Sun in Quartile or Oppoſition to the ſignificator of the Thief openly known.</p>
+                  <p>
+                     <pb n="43" facs="tcp:61470:26"/>The Sun in Quartile or Trine, then hidden or cloak't.</p>
+               </div>
+               <div type="section">
+                  <head>Whether the Thief hath the goods in his own keeping or to whom he hath de<g ref="char:EOLhyphen"/>livered them.</head>
+                  <p>If the Moon behold the ſignificator of the Thief by Trine or Sextile, the goods are in the Thiefes hands.</p>
+                  <p>If the Lord of the houſe of the Moon doth behold the ſignificator of the Thief, by Quartile or Oppoſition, then the Thief ſhall looſe them again.</p>
+                  <p>If the Lord of the terme of the Moon doth ſo behold him; the ſame.</p>
+                  <p>If the ſignificator of the Thief gives virtue to no Planet, then he hath the goods ſtill in his own keeping.</p>
+                  <p>If That any Planet be in Conjuncti<g ref="char:EOLhyphen"/>on with the ſignificator of the Thief, or behold him by any Aſpect, and that Planet hath more dignities in the ſign
+<pb n="44" facs="tcp:61470:27"/>
+where the ſignificator of the Thief is then the ſignificator of the Thief, then the Thief hath delivered them to a<g ref="char:EOLhyphen"/>nother.</p>
+                  <p>If that the Lord of the houſe of the Moon, or the Moon be with the ſigni<g ref="char:EOLhyphen"/>ficator of the Thief, then he hath the goods ſtill in his own hands.</p>
+                  <p>But by Quartile or Oppoſition the goods are ſtopped from the Thief.</p>
+                  <p>If that the Lord of the terme of the Moon, or Lord of the ſecond be with the ſignificator, of the Thief or Aſpect him by Sextile or Trine, then the Thief hath them ſtill, but with Quartile or Oppoſition they are ſtopped from him.</p>
+                  <p>If that the Moon give vertue to the ſignificator of the Thief, then one Thief ſteals from another.</p>
+                  <p>If that the Lord of the Aſcendant or any Planet in the Aſcendant do give vertue to the ſignificator of the Thief, Then the owner of the goods
+<pb n="45" facs="tcp:61470:27"/>
+hath Voluntary given them to the ſuſpected Thief.</p>
+                  <p>If that the ſignificator of the Thief keep his own vertue to himſelf, he hath the goods in his own hand.</p>
+                  <p>But if the ſignificator of the Thief part with his vertue to any other Planet he hath delivered them out of his poſſeſſion.</p>
+                  <p>If the ſignificator of the Thief give his vertue to the Lord of the Aſcen<g ref="char:EOLhyphen"/>dant he will give them again to the owner either in part or the whole, according to the dignity or vertue he gives to the Lord of the Aſcendant.</p>
+                  <p>If to the Lord of the third, to a bro<g ref="char:EOLhyphen"/>ther kindred or neighbour of the owner &amp;c.</p>
+                  <p>And ſo of all the twelve houſes you may eaſily know to whom he hath delivered them.</p>
+               </div>
+               <div type="section">
+                  <pb n="46" facs="tcp:61470:28" rendition="simple:additions"/>
+                  <head>Whether the Thief ſhall be taken or not?</head>
+                  <p>If the Lord of the Aſcendant follow after the ſignificator of the Thief he ſhall be taken.</p>
+                  <p>If the ſignificator of the Thief be unfortunate by Mars he ſhall be taken.</p>
+                  <p>If the Lord of the Aſcendant be in his own houſe the Thief ſhall be taken.</p>
+                  <p>If the ſignificator of the Thief be in she twelfth houſe he ſhall be Comitted to priſon.</p>
+                  <p>If unfortunate lye long, or dye there.</p>
+                  <p>If the ſignificator of the Thief be unfortunate, the Thief ſhall be taken.</p>
+               </div>
+               <div type="section">
+                  <head>Whether the ſuſpected Party be guilty or not.</head>
+                  <p>If that the ſignificator of the Thief be in <hi>Quartile</hi> or <hi>Oppoſition,</hi> to the Lord of the Aſcendant the querent doth
+<pb n="47" facs="tcp:61470:28"/>
+ſuſpect the Thief, as many Planets as be in the ſigne ſo many Thieves doth the querent ſuſpect.</p>
+                  <p>If that the Cuſp of the 4 Angles be all fix't It ſiginfies that the Party ſuſpected is guilty. If the Moon be joyned to an evill Planet or in an evill ſign the party ſuſpected is guilty.</p>
+                  <p>If the Moon be evilly aſpected the party ſuſpected is guilty.</p>
+                  <p>If the Lord of the hour be in Oppſi<g ref="char:EOLhyphen"/>tion, to Scorpio, or Capricornus, the ſuſpected party is guilty.</p>
+                  <p>If that the Lord of the hour be in a South ſign, and a night houſe the ſu<g ref="char:EOLhyphen"/>ſpected is guilty.</p>
+                  <p>But if he be in an Occidental ſign as Gemini, Libra, Aquaries, or in the Center of the earth, the ſuſpected is no Thief, but the Thief dwells in the town where the goods are loſt.</p>
+               </div>
+               <div type="section">
+                  <pb n="48" facs="tcp:61470:29"/>
+                  <head>That the party ſuſpected is not guilty.</head>
+                  <p>If the Moon be joyned to Jupiter, Venus or the Part of Fortune, the par<g ref="char:EOLhyphen"/>ty ſuſpected is not guilty.</p>
+                  <p>If the Lord of the Aſcendant be in a Cadent houſe, and not joyned to a Planet in an Angle that receiveth him, the ſuſpected is not guilty.</p>
+                  <p>If that the Aſcendant be a moveable ſign as Aries, Cancer, Libra, or Capri<g ref="char:EOLhyphen"/>corn, and ſo much the more if that Sa<g ref="char:EOLhyphen"/>turn or Mars have any Aſpect to the Aſcendant, or if that the Dragons-tail be in the Aſcendant, the party ſuſpect<g ref="char:EOLhyphen"/>ed is not guilty and the report is falſe.</p>
+                  <p>If the Moon be joyned to a Planet in a Cadent houſe, the party is not guilty.</p>
+                  <p>If the Lord of the Aſcendant be in an Angle and joyned to a Planet Ca<g ref="char:EOLhyphen"/>dent, the party ſuſpected, hath an
+<pb n="49" facs="tcp:61470:29" rendition="simple:additions"/>
+evil report undeſerved.</p>
+                  <p>If the Moon be impedited in an An<g ref="char:EOLhyphen"/>gle the party ſuſpected is not guilty.</p>
+                  <p>If the Lord of the eighth be in the fifth or the eleventh houſe, or if the Moon be void of courſe, the party ſuſpected is not guilty.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Tokens that the goods loſt ſhall be re<g ref="char:EOLhyphen"/>covered.</head>
+               <p>If the ſignificator of the Thief, do apply to the Lord of the Aſcendant, by Trine or Sextile they ſhall be had again.</p>
+               <p>If the Moon apply to the Lord of the ſecond houſe by Trine or Sextile, the goods ſtolen ſhall be recovered.</p>
+               <p>If the Lord of the Aſcendant be in his own houſe, the owner ſhall recover the goods himſelf.</p>
+               <p>If the Lord of the terme of the Moon be in Trine or Sextile to the
+<pb n="50" facs="tcp:61470:30"/>
+Lord of the Aſcendant, the owner ſhall have the goods again.</p>
+               <p>If the Lord of the ſecond apply to the Lord of the Aſcendant it denotes recovery.</p>
+               <p>If the Moon apply to any Planet by Trine or Sextile, and the application be in moveable ſigns, look how many degrees it is till they come to their perfect Aſpect, and in ſo many days it ſhall be recovered, and if the Sun be in the Aſcendant he like wiſe takes the Thief.</p>
+               <p>If the Lord of the Aſcendant apply to the Lord of the ſeventh, or he be in the ſeventh houſe they ſhall be had a<g ref="char:EOLhyphen"/>gain by the care and diligence of the querent.</p>
+               <p>If the Lord of the Aſcendant be in the tenth houſe, it denotes recovery but with a great deal of care and la<g ref="char:EOLhyphen"/>bour of the querent.</p>
+               <p>If the Lord of the ſecond houſe be
+<pb n="51" facs="tcp:61470:30"/>
+ſtrong, and behold the Aſcendant, and Lord thereof by Trine or Sextile, the goods ſhall be had a gain.</p>
+               <p>If the Lord of the ſecond houſe, be in the ſecond houſe, or behold the ſe<g ref="char:EOLhyphen"/>cond by Trine or Sextile, part of the goods may be had again, according to the ſtrength or weakneſs of the Lord of the ſecond give Judgement.</p>
+               <p>If the Lord of the Aſcendant be fortunate in the Diamiter of the firma<g ref="char:EOLhyphen"/>ment, then the Thief ſhall bring again the thing from whence he ſtole it.</p>
+               <p>If the Lord of the Aſcendant and fourth houſe, be in the firſt houſe, and the Lord of the firſt, and Lord of the hour, be in the fourth houſe, the goods ſtolen or loſt ſhall be had again.</p>
+               <p>If the Lord of the Aſcendant and the Lord of the hour be both in the Aſcendant, it ſhall be found near or a<g ref="char:EOLhyphen"/>bout him that ſtole it.</p>
+               <p>If the Lord of the Aſcendant and
+<pb n="52" facs="tcp:61470:31"/>
+Lord of the hour, or one of them be in the ſeventh houſe, it ſhall be found in few days.</p>
+               <p>If the Lord of the Aſcendant, or Lord of the hour, have a good Aſpect to the Sun the thing loſt ſhall be had a<g ref="char:EOLhyphen"/>gain.</p>
+               <p>If the Moon behold the Sun by Op<g ref="char:EOLhyphen"/>poſition, the Thief ſhall be found, but the goods not to be had by any means.</p>
+               <p>If the Lord of the ſecond be bodily joyned to the Lord of the eighth or by Aſpect, the querent ſhall have his goods again, or ſatisfaction for them of the thief.</p>
+               <p>If the Lord of the ſecond, doth ap<g ref="char:EOLhyphen"/>ply luckily to the part of fortune, and the part of fortune be in the firſt, ſe<g ref="char:EOLhyphen"/>cond, ſeventh or tenth houſes, it gives knowledge of the goods, and the Thief that ſtole them.</p>
+               <p>The Lord of the ſecond and the Lord of the tenth, both in one houſe,
+<pb n="53" facs="tcp:61470:31"/>
+it notes diſcovery, and doth give good hopes of finding it again.</p>
+               <p>If the Lord of the ſecond be joyned by Sextile or Trine to any planet in the ſecond it notes reovery.</p>
+               <p>If the Lord of the hour be for<g ref="char:EOLhyphen"/>tunately plac't and ſtrongly aſpecting the Lord of the firſt or ſecond, it notes recovery.</p>
+               <p>If the Lord of the ſecond be fortu<g ref="char:EOLhyphen"/>nate in the firſt, or the Lord of the firſt fortunate in the ſecond, it ſignifies re<g ref="char:EOLhyphen"/>covery.</p>
+               <p>If the Moon Jupiter or Venus, be fortunate in the ſecond or firſt, it ſhews good hopes of recovery, if the Moon applies to her diſpoſer, or to the Lord of the terme ſhe is in by Conjunction, Trine or Sextile, it notes recovery.</p>
+               <p>If the Moon gives virtue to the Lord of the fifth, or Lord of the ele<g ref="char:EOLhyphen"/>venth houſe, it notes recovery.</p>
+               <p>If the Lord of the ſecond be in the
+<pb n="54" facs="tcp:61470:32"/>
+ſecond, or behold the Sun by Trine or Sextile, it notes recovery.</p>
+               <p>If the Lord of the ſecond and Mer<g ref="char:EOLhyphen"/>cury be in Conjunction, it notes reco<g ref="char:EOLhyphen"/>very, but with a great deal of grief and contention.</p>
+               <p>If the Moon be in the Aſcendant with any of the fortunes, it notes reco<g ref="char:EOLhyphen"/>very.</p>
+               <p>Yet nevertheleſs you muſt in gi<g ref="char:EOLhyphen"/>ving Judgement go by the major part of Teſtimonies whether the goods ſhall be had or not, and in ſo doing you cannot erre.</p>
+               <div type="section">
+                  <head>The time when the goods ſtolen or miſ<g ref="char:EOLhyphen"/>ſing ſhall be found.</head>
+                  <p>The Moon beholding her own houſe by Trine or Sextile, it ſhall be had within three days.</p>
+                  <p>If the Lord of the Aſcendant and the Moon, be both in the Aſcendant
+<pb n="55" facs="tcp:61470:32"/>
+and the Sun behold them by Trine or Sextile, it ſhall be found the ſame day it was loſt, but if that he behold them by a Quartile it ſignifies a week, if by Oppoſition a moneth.</p>
+                  <p>The application of the Moon to any Planet by Trine or Sextile, if the ap<g ref="char:EOLhyphen"/>plication be in moveable ſigns, look how many degrees they want of their Aſpect, and ſo many days it ſhall be before it ſhall be recovered.</p>
+                  <p>And if that the Sun be in the Aſcen<g ref="char:EOLhyphen"/>dant it diſcovers the thief.</p>
+                  <p>Likewiſe, behold the two Planets that be applying and you may know by their application, the recovery of the goods ſtolen, and number how many degrees they are one from the others Aſpect, and ſo judge of hours days weeks or moneths.</p>
+                  <p>If that the two applying Planets be in moveable ſigns, the degrees be<g ref="char:EOLhyphen"/>twixt them will ſignifie weeks or
+<pb n="56" facs="tcp:61470:33"/>
+moneths, yet ſometimes days, Judge that according to the ſwiftneſs or ſlow<g ref="char:EOLhyphen"/>neſs of their motion.</p>
+                  <p>If in fixed ſigns, then moneths or years.</p>
+                  <p>If that theſe ſignificators be in Ca<g ref="char:EOLhyphen"/>dent houſes, then it doth ſignifie they will quickly be recovered.</p>
+                  <p>If the two ſignificators be in Angles it ſhall be long firſt.</p>
+                  <p>Look to the Sun and Moon, and if that they be parted from the part of fortune, or be both or either of them joyned to the part of fortune, if not ſee then which is nigheſt the part of fortune, the Sun or Moon, and he that is nigheſt the part of fortune, either by application or ſeparation, ſhall ſignifie the time, <hi>viz.</hi> how many degrees the neareſt is to him. If that the part of fortune be in an Angle, it ſhall be ſo many days or weeks as is degrees be<g ref="char:EOLhyphen"/>tween them.</p>
+                  <p>
+                     <pb n="57" facs="tcp:61470:33"/>If the part of fortune be in a ſucce<g ref="char:EOLhyphen"/>dant houſe, then ſo many weeks or moneths.</p>
+                  <p>If the part of fortune be in a Cadent houſe then ſo many moneths or years.</p>
+                  <p>Note that the finding of the things by the Sun is ſooner then by the Moon.</p>
+               </div>
+               <div type="section">
+                  <head>Choice tokens that the Goods ſtolen ſhall not be recovered.</head>
+                  <p>If the Lord of the Aſcendant be in Quartile or Oppoſition to the Lord of the ſeventh, then the goods will be ſtopped from the owner.</p>
+                  <p>If the Moon be in Quartile or Op<g ref="char:EOLhyphen"/>poſition to the Lord of the ſeventh, it ſignifies the ſame.</p>
+                  <p>If the Lord of the terme of the Moon be in Quartile or Oppoſition to the Lord of the Aſcendant, <hi>Idem.</hi>
+                  </p>
+                  <p>If that Saturn, Mars or the Dragons-tail
+<pb n="58" facs="tcp:61470:34"/>
+be in the eighth or ſecond houſes it ſhows ſmall hopes of recovery.</p>
+                  <p>If the Lord of the ſecond be Retor<g ref="char:EOLhyphen"/>grade or Combuſt. <hi>Idem.</hi>
+                  </p>
+                  <p>If the Moon be Combuſt or under the beams of the Sun the ſame.</p>
+                  <p>If the Lord of the tearme of the Moon, and the Lord of the houſe of the Moon, be both diminiſhing motion and number and infortunes beholding them both, it is not to be Recovered.</p>
+                  <p>If the Lord of the eighth be in the Aſcendant and the Lord of the Aſcen<g ref="char:EOLhyphen"/>dant in the eighth, it is not to be Recovered.</p>
+                  <p>If the Sun and Moon be going to a Conjunction under the earth at the time of the Looſing the goods, neither goods nor Thief ſhall ever be heard of.</p>
+                  <p>If that the Sun and Moon be going to a Conjunction or Oppoſition, the goods loſt will not by any means be recovered.</p>
+                  <p>
+                     <pb n="59" facs="tcp:61470:34"/>Likewiſe if both the Luminaries be under the earth, the goods loſt will hardly ever be heard of again.</p>
+                  <p>Alſo the Lord of the ſecond in the eighth houſe no recovery.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Of friendſhip and hatred between the querent and the thief.</head>
+               <p>If that the Lord of the Aſcendant and ſignificator of the Thief, do be<g ref="char:EOLhyphen"/>hold each other by Trine or Sextile, then is friendſhip between them, and ſo much the more if there be reception.</p>
+               <p>But if they do behold each other by Quartile or Oppoſition, then do they hate one another.</p>
+               <p>But if there be no Aſpect between them, then they do neither love nor hate one another.</p>
+               <div type="section">
+                  <pb n="60" facs="tcp:61470:35"/>
+                  <head>Whether the Thief be beloved of his neighbours or not.</head>
+                  <p>If that the diſpoſer of the Moon doth behold the Moon by Trine or Sextile, it is one that all his neigh<g ref="char:EOLhyphen"/>bours loves well, and he is very plea<g ref="char:EOLhyphen"/>ſant to them.</p>
+                  <p>If that the diſpoſer of the Moon doth behold the Moon by a Quartile, he is neither much loved, nor much hated, ſome men ſpeak well of him but the moſt part ſpeaks ill of him.</p>
+                  <p>If that the diſpoſer of the Moon doth behold the Moon by Oppoſition, it is one that all men ſpeaks evill of and all his Neighbours doth hate him.</p>
+                  <p>If that the diſpoſer of the Moon be in Conjunction with the Moon either above or under the earth the Thief is a buiſy fellow in all matters and troubled in mind, yet cannot have his will.</p>
+               </div>
+               <div type="section">
+                  <pb n="61" facs="tcp:61470:35"/>
+                  <head>That the Querent is Thief himſelf.</head>
+                  <p>If that <hi>Mars</hi> be ſignificator and in the tenth houſe the querent is the Thief himſelf.</p>
+                  <p>If that the ſignificator of the Thief be in the Aſcendant the Querent is Thief; the more ſure it is if the ſign Aſcending and the ſignificator of the Querent doth agree with his Com<g ref="char:EOLhyphen"/>plection.</p>
+               </div>
+               <div type="section">
+                  <head>That the Theif and querent be both in one houſe</head>
+                  <p>If that the Lord of the ſixth houſe and the Lord of the Aſcendent be both together in an Angle, or if that the Lord of the houſe be with the Lord of the Aſcendant in an angle: then the owner and the Thief be both in one houſe and the goods ready for the
+<pb n="60" facs="tcp:61470:36" rendition="simple:additions"/>
+owner: proved many times.</p>
+               </div>
+               <div type="section">
+                  <head>Whether the Thief be married or not.</head>
+                  <p>If the Lord of the ſeventh houſe be in an Angle he is married, if in a ſucce<g ref="char:EOLhyphen"/>dant houſe towards marraige, If in a Cadent then nether married nor like to be.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="61" facs="tcp:61470:36"/>
+            <head>A Scheam erected concer<g ref="char:EOLhyphen"/>ning a houſe Robbed in the <hi>Minories</hi> of thirty pounds-worth of Clothes the 29<hi>th</hi> of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1663.</head>
+            <p>
+               <figure>
+                  <head>29 <hi>Septem.</hi> 1663 30 in. P. Mer' <g ref="char:Moon">☽</g> 
+                     <hi>ab</hi> 
+                     <g ref="char:quadrine">□</g> ☉ <hi>ad</hi> ⚹ ♀ <hi>Diae Lunae. Hora Mercurij.</hi>
+                  </head>
+               </figure>
+            </p>
+            <div type="part">
+               <pb n="64" facs="tcp:61470:37"/>
+               <head>Judgment upon the foregoing figure.</head>
+               <p>This figure is more difficult then ordinary in giving judgment by rea<g ref="char:EOLhyphen"/>ſon that all the four quarters are con<g ref="char:EOLhyphen"/>cerned in it, therefore I ſhall according to my Judgment give you the perfect diſcovery of it.</p>
+               <p>Firſt I find the ſign of the ſeventh houſe a weſtern ſign.</p>
+               <p>Seconly Mercury Lord of the ſeventh houſe and Lord of the hour in a northern ſign, but in the ſouth quarter.</p>
+               <p>Thirdly the part of fortune in a eaſterly ſign, yet in a northern quarter.</p>
+               <p>Fourthly Mars Lord of the fourth and diſpoſer of the part of fortune in an northeren ſign, but in the weſtern quarter.</p>
+               <p>Fifthly the Moon being in Quartile with the Sun he being in a weſterly ſign.</p>
+               <p>
+                  <pb n="65" facs="tcp:61470:37"/>Sixthly, the Dragons-tail being in a Weſterly ſign, but in the North quar<g ref="char:EOLhyphen"/>ter, the which doth ſignifie the de<g ref="char:EOLhyphen"/>voiding, and the ſale of the goods to be north-weſt from the querent, not<g ref="char:EOLhyphen"/>withſtanding the greateſt part of the goods went to the South-eaſt, but yet where after that they were devoided.</p>
+               <p>Becauſe that that the Moon was in a South ſign, but in the Eaſt quarter next applying to Venus, ſhe entring an Eaſt ſign, and in an Eaſterly quarter, but this I ſhall deſcribe more at large here<g ref="char:EOLhyphen"/>after. Therefore according to the a<g ref="char:EOLhyphen"/>foreſaid teſtimonies, I ſent the querent to <hi>Cow-Croſs,</hi> or about the lower end of <hi>Long-lane London,</hi> which it did ſo appear after diſcovery that they were devoided in an Alley near <hi>Cow-croſs,</hi> and by this means did I diſcover it.</p>
+               <p>Firſt, I find the Moon in the firſt houſe, and ſhe applying to Venus, ſhe having exaltation in the third, and en<g ref="char:EOLhyphen"/>tring
+<pb n="66" facs="tcp:61470:38"/>
+the ſign aſcending, ſhe being La<g ref="char:EOLhyphen"/>dy of the tenth houſe, which is the houſe of diſcovery.</p>
+               <p>Alſo Venus being a feminine Planet and the ſign of the third a feminine ſign, where Venus hath exaltation, and the part of fortune being in the third, I told the querent that the goods would be diſcovered, and that by a ſiſter of hers, or ſome kinſwoman that dwelt that way, and ſo it was for it was diſcovered by her own ſiſter after this manner.</p>
+               <p>One of the Thiefs ſent a woman to ſell the Clothes at the querents ſiſters houſe, and her ſiſter knew the goods by which means they were all taken.</p>
+               <p>The querent had ſome part of ſatiſ<g ref="char:EOLhyphen"/>faction, but not all, as the Dragons-tail in the ſecond doth ſhow.</p>
+               <p>But there was grand teſtimony of diſcovery, becauſe the Moon was in the firſt houſe.</p>
+               <p>
+                  <pb n="67" facs="tcp:61470:38"/>Secondly Saturn Lord of the ſecond in the aſcendant with Jupiter Lord thereof.</p>
+               <p>Thirdly the Moon in application to Venus, ſhe being a fortune, and Lord of the tenth, which notes diſcovery.</p>
+               <div type="section">
+                  <head>Concerning the diſtance I thus judged.</head>
+                  <p>Finding the Sun and Moon caſting their Aſpects to the part of fortune, and within 5 degrees of the true Aſpect and both of them newly ſeparated and in moveable ſigns, I did judge it to be ſome five or ſix furlongs North-weſt, and ſo it was.</p>
+                  <p>Likewiſe I found three theeves by the figure, two women and one man.</p>
+                  <p>Firſt I find Mercury Lord of the ſe<g ref="char:EOLhyphen"/>venth, in the tenth a ſign feminine and likewiſe the houſe feminine, which doth ſignifie one woman.</p>
+                  <p>Secondly, the Moon in Capricorn a
+<pb n="68" facs="tcp:61470:39"/>
+feminine ſign perigrine, and applying to Venus a feminine Planet, I did diſ<g ref="char:EOLhyphen"/>cover another woman.</p>
+                  <p>Alſo finding the Sun in Oppoſition to the part of fortune, I did diſcover another which was a man and this was true, for the man made his eſcape, the two women was taken and Comitted to <hi>New-gate</hi> and both of them were condemned to dye yet one was Repre<g ref="char:EOLhyphen"/>ved and the other was hanged.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Concerning beaſts or any li<g ref="char:EOLhyphen"/>ving thing loſt or ſtrayed.</head>
+               <div type="section">
+                  <head>Firſt the beaſt are not ſtolen but ſtrayed</head>
+                  <p>Firſt of all if that the Lord of the ſe<g ref="char:EOLhyphen"/>cond, or Lord of the ſixth, or Lord of the houſe of the Moon, do ſeparate from any Planet then ſtrayed, but if that any Planet ſeparate from them then led away.</p>
+                  <p>
+                     <pb n="69" facs="tcp:61470:39"/>If that the Moon give virtue to Sa<g ref="char:EOLhyphen"/>turn or Mars, or to the Lord of the eighth, or to any Planet in a Cadent houſe, eſpecially by Trine or Sextile, the beaſt are ſtrayed of themſelves.</p>
+                  <p>Note that the ſeparation herein na<g ref="char:EOLhyphen"/>med, is that when one Planet ſeparates from another by ♂ and no otherwiſe.</p>
+                  <p>If that the Lord of the houſe of the Moon, or the Lord of the ſecond, do ſeparate from any Planet, or from their own houſes, if the ſigns be fixt then ſtolen, but if moveable fled of them<g ref="char:EOLhyphen"/>ſelves.</p>
+               </div>
+               <div type="section">
+                  <head>That the Cattle are driven away or ſtolen.</head>
+                  <p>If that any planet doth ſeperate from the Lord of the houſe of the Moon, they are driven away or ſtolen.</p>
+                  <p>If that any Planet doth ſeperate
+<pb n="70" facs="tcp:61470:40"/>
+from the Lord of the ſecond houſe they are ſtolen or driven away, If that none of theſe things be the beaſt are not far from the place they firſt went from.</p>
+               </div>
+               <div type="section">
+                  <head>Where the Beaſts are.</head>
+                  <p>If that the Lord of the ſixth be in fiery ſignes they are Eaſtward in woods where are buſhes or brambles or where fire hath been.</p>
+                  <p>But if in Angles in fiery ſignes then in a cloſe pound or under a lock.</p>
+                  <p>If in earthly ſignes then ſouth in Grounds.</p>
+                  <p>But if in an Angle cloſe poun<g ref="char:EOLhyphen"/>ded in ſuccedant houſes, in Cloſes on the Right hand of the Querent.</p>
+                  <p>If in Cadent houſes on the left hand of the querent.</p>
+                  <p>If in Aiery ſignes then are they weſtward in marſhy Grounds.</p>
+                  <p>In an Angle the beaſts are houſed or pounded.</p>
+                  <p>
+                     <pb n="71" facs="tcp:61470:40"/>In ſuccedant houſes weſt on the right hand of the querent.</p>
+                  <p>If in Cadent houſes on the left hand of the querent in a Common going away.</p>
+                  <p>If that the Lord of the ſixth be in watry ſigns North, in a low place.</p>
+                  <p>If in an Angle, in a cloſe or pound northward.</p>
+                  <p>If in a Cadent houſe, on the left hand of the querent northward going awayward.</p>
+                  <p>If that the Lord of the ſixth be in moveable ſigns, they are in hilly grounds.</p>
+                  <p>If the Lord of the ſixth be in fixed ſigns, they are in mrrſhy grounds where new buildings are.</p>
+                  <p>If in Common ſigns, then they are in grounds where ditches and water is, and where Ruſhes grow.</p>
+                  <p>If that the Lord of the terme of the Moon, be in fixed ſigns, they be in
+<pb n="72" facs="tcp:61470:41"/>
+places newly taken in, or near ſome new buildings.</p>
+                  <p>If in moveable ſigns, in a place full of hills.</p>
+                  <p>If in Common ſigns in watry places or Marſhy grounds nigh ditches or pits.</p>
+               </div>
+               <div type="section">
+                  <head>Whether the Beaſts be in the pound or no.</head>
+                  <p>If the Lord of the ſixth be in the twelfth houſe, then are the Beaſt in the pound.</p>
+                  <p>If the Lord of the ſixth, or the Moon be unfortunate, they ſhall be pounded.</p>
+                  <p>If the Lord of the ſixth or twelfth be in the tenth or nineth, they are in the cuſtody of ſome Juſtice or Officer, or under lock.</p>
+                  <p>If the Lord of the twelfth do apply to the Lord of the Aſcendant, or the Aſcendant unto the Lord of the 12th,
+<pb n="73" facs="tcp:61470:41"/>
+and either one or both of them be un<g ref="char:EOLhyphen"/>fortunate the beaſts will be pounded.</p>
+                  <p>If the ſignificator of the beaſt be un<g ref="char:EOLhyphen"/>fortunate in the eighth houſe the beaſt will die in the pound.</p>
+                  <p>If Mars doth Aſpect the Moon in the twelfth by Conjunction Quartile or Oppoſition, they will be killed in the pound.</p>
+               </div>
+               <div type="section">
+                  <head>Whether the beaſt be dead or a live.</head>
+                  <p>If the Moon doth apply to the Lord of the eighth houſe dead.</p>
+                  <p>If the Moon doth apply to the eighth houſe or the diſpoſer of the Moon doth apply to the eighth houſe or his Lord, dead or will be ſpeedily.</p>
+                  <p>If the Moon doth apply to the Lord of the eighth houſe, from the place where ſhe is, then dead.</p>
+               </div>
+               <div type="section">
+                  <pb n="74" facs="tcp:61470:42"/>
+                  <head>To know if the beaſts be loſt.</head>
+                  <p>If the Lord of the ſixth be unfortu<g ref="char:EOLhyphen"/>nate by Saturn or Mars, then the beaſts are loſt.</p>
+                  <p>Chiefly if the Lord of a Cadent houſe.</p>
+                  <p>If that the Lord of the ſixth doth be<g ref="char:EOLhyphen"/>hold the Lord of the Aſcendant by Quartile or Oppoſition, they are like to be ſtopt from the owner.</p>
+                  <p>If the Lord of the ſixth doth ſo be<g ref="char:EOLhyphen"/>hold the Lord of the Terme of the Moon the ſame.</p>
+                  <p>If the Moon and the Lord of the houſe of the Moon, doth behold one another, by Quartile or Oppoſition, they will be ſtopt from the owner.</p>
+               </div>
+               <div type="section">
+                  <head>Whether the beaſts ſhall be had again or not.</head>
+                  <p>If the ſignificator of the ſixth houſe
+<pb n="75" facs="tcp:61470:42"/>
+be fortunated by Jupiter or Venus, and they or either of them be in the ſecond fifth or eleventh houſes, the beaſts ſhall be had again.</p>
+                  <p>If the Lord of the Terme of the Moon, or the Lord of the fourth houſe be with the Lord of the Aſcendant, or with his Almuten, the owner ſhall have his goods again.</p>
+                  <p>The Moon in Trine or Sextile to the Lord of the Aſcendant they will be found.</p>
+                  <p>The Moon in Trine or Sextile to the Sun, then they may be found.</p>
+                  <p>The Sun in the Aſcendant except in <hi>Libra</hi> or <hi>Aquaries</hi> the goods will be found.</p>
+                  <p>The Lord of the Aſcendant, or the Lord of the ſecond houſe, in the houſe of the ſignificator fortunate, they ſhall be found.</p>
+                  <p>As you have the explanation of ſmall beaſts by the ſixth houſe and his
+<pb n="76" facs="tcp:61470:43"/>
+Lord, after the ſame manner Judge by the twelfth houſe and his Lord for great beaſts.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Concerning Fugitives.</head>
+               <div type="section">
+                  <head>How to find out the ſignificator of a Fu<g ref="char:EOLhyphen"/>gitive.</head>
+                  <p>If that a queſtion be propoſed con<g ref="char:EOLhyphen"/>cerning one that dwelt in the houſe with the Querent, then take the Planet in the Aſcendant not being the Lord thereof. But if none be there then take the Planet that is in the ſign or houſe where the Lord of the Aſcendant is, if that none be there, then take the Moon, ſhe ſhall be the ſignificator of the Fugitive.</p>
+                  <p>But if that he enquires for his ſer<g ref="char:EOLhyphen"/>vant then take the ſixth houſe and his Lord, if for his brother or ſiſter then
+<pb n="77" facs="tcp:61470:43"/>
+the third houſe, if for his child then the fifth houſe.</p>
+                  <p>If for his acquaintance his publique enemy or for his wife or ſweet heart, then take the ſeventh houſe, if for his friend, then take the eleventh houſe, and ſo be ſure to take the right ſignifi<g ref="char:EOLhyphen"/>cator.</p>
+               </div>
+               <div type="section">
+                  <head>Whether the Fugitive will be found or come again.</head>
+                  <p>If the ſignificator of the Fugitive be in the Aſcendant he comes of his own accord.</p>
+                  <p>If the Moon be ſeparated from the Lord of the Aſcendant, and then im<g ref="char:EOLhyphen"/>mediately doth apply to the ſignifica<g ref="char:EOLhyphen"/>tor of the Fugitive, you ſhall hear news of the party fled, for ſome or other will tell you where he is.</p>
+                  <p>If the ſignificator of the Fugitive be Combuſt, or entring into combuſtion,
+<pb n="78" facs="tcp:61470:44"/>
+the Fugitive ſhall be found though he hide himſelf ſecretly, this hath been of<g ref="char:EOLhyphen"/>ten proved.</p>
+                  <p>If that the Moon doth ſeparate from the ſignificator of the Fugitive, and then doth immediately apply to the Lord of the Aſcendant, then the Fu<g ref="char:EOLhyphen"/>gitive is ſorry that he went away, and will ſend one to treat that he may come again.</p>
+                  <p>If that the Moon be joyned to ill Planets, as Saturn or Mars, or the Dra<g ref="char:EOLhyphen"/>gons tail, or to a Planet Retrograde he ſhall be found, or come again of his own accord.</p>
+                  <p>If that the Lord of the Aſcendant doth behold an evil Planet from the houſe ſignifying the Fugitive, the que<g ref="char:EOLhyphen"/>rent ſhall then find the party fled.</p>
+                  <p>If that the Moon do ſeparate from Jupiter or Venus, he ſhall come back again, or a thing loſt ſhall be quickly found.</p>
+                  <p>
+                     <pb n="79" facs="tcp:61470:44"/>If that the Moon doth behold her own houſe, by Sextile or Trine the Fugitive ſhall return in three days.</p>
+                  <p>The Moon being in Virgo, he that flyeth ſhall ſoon return.</p>
+                  <p>If that the Lord of the Aſcendant be joyned to the ſignificator of the Fugi<g ref="char:EOLhyphen"/>tive or applying to them, the Fugitive or applying to it, taken.</p>
+                  <p>The Lord of the Aſcendant in his own houſe, he ſhall be taken.</p>
+                  <p>The ſignificator of the Fugitive un<g ref="char:EOLhyphen"/>fortunate by Saturn or Mars then taken.</p>
+                  <p>The Moon in the Aſcendant with Jupiter or Venus he comes again.</p>
+                  <p>The Lord of the Aſcendant and the Moon applying to the Lord of the tenth, or to the Lord of the houſe of the Moon, the Fugitive ſhall be found the Moon unfortunate he ſhall be ta<g ref="char:EOLhyphen"/>ken, but chiefly when ſhe is unfortu<g ref="char:EOLhyphen"/>nate
+<pb n="80" facs="tcp:61470:45"/>
+in the tenth houſe.</p>
+                  <p>The Moon and Lord of the Aſcen<g ref="char:EOLhyphen"/>dant in the Aſcendant, and the Sun be<g ref="char:EOLhyphen"/>holding them by a Trine or Sextile, the Fugitive ſhall be found the ſame day, but with a Quartile Aſpect in a week, with an Oppoſition in a moneth.</p>
+                  <p>When the ſignificator of the Fugi<g ref="char:EOLhyphen"/>tive comes into the houſe of the Lord of the Aſcendant, then comes the Fu<g ref="char:EOLhyphen"/>gitive into the hands of the querent.</p>
+                  <p>If that the Moon be in evill termes, and with Saturn or Mars, or either of, them be in the houſe where the Moon is, he is with ſome poor ſtrange people who will bring him again.</p>
+               </div>
+               <div type="section">
+                  <head>Where the Fugitive is.</head>
+                  <p>If that the Moon give virtue to Sa<g ref="char:EOLhyphen"/>turn or Mars, or be in any of their houſes, then he is with ſome kinſman as evill as himſelf.</p>
+                  <p>
+                     <pb n="81" facs="tcp:61470:45"/>If the ſignificator of the Fugitive be in the ſeventh houſe, he is hid in the houſe of him that knows him well.</p>
+                  <p>If his ſignificator be in an angle he is in a houſe, if in Aſcendant houſe he is in a cloſe or ſtreet, if in a Cadent houſe he is in a Common, an indfferent large diſtance off.</p>
+                  <p>If that ſignificator of the Fu<g ref="char:EOLhyphen"/>gitive or the Moon, be in a ſtrong Angle within three degrees of the Aſcendant or his Lord, it notes the Fugitive to be in the Town or Pariſh of the querent and very near him.</p>
+                  <p>If that he be within ſeventy degrees of the Aſcendant or his Lord, he is yet in Town but cheifly if that he be in an Angle but if that he be above ſeventy degrees and in a Cadent houſe, then he is gone far.</p>
+                  <p>If that the ſignificator of the Fu<g ref="char:EOLhyphen"/>gitive be in the fourth ſix or tenth houſes, he is gone but a litle way, but if
+<pb n="82" facs="tcp:61470:46"/>
+he be in the third or nineth houſes then he is gone far.</p>
+                  <p>If you find any Planet that hath dig<g ref="char:EOLhyphen"/>nities where the ſignificator of the Fugitive is, if that Planet doth ſeperate from the Lord of the Aſcendent; And apply to any Planet in the ſixth eight or twelf houſe, he is then out of town, if that the ſignificator of the Fugitive be going out of one ſigne into another then he is new gone out of town.</p>
+                  <p>If that ſignificator of the Fu<g ref="char:EOLhyphen"/>gitive doth behold the Lord of the Aſcendant with a Quartile aſpect he is gone out of Town.</p>
+                  <p>If that the ſignificator of the Fugi<g ref="char:EOLhyphen"/>tive be departing from the Sun he is gone out of Town.</p>
+                  <p>The ſignificator of the Fugitive ſe<g ref="char:EOLhyphen"/>parating from the Lord of the Aſcen<g ref="char:EOLhyphen"/>dant, eſpecially if he have any dignities in the place where the ſignificator of the Fugitive is, and he applying to a<g ref="char:EOLhyphen"/>ny
+<pb n="83" facs="tcp:61470:46"/>
+Planet in the ſixth, eight or 12<hi>th</hi> houſes he is gone out of town.</p>
+               </div>
+               <div type="section">
+                  <head>To know the diſtance between the Que<g ref="char:EOLhyphen"/>rent and the Fugitive.</head>
+                  <p>If that the ſignificators of the Fugi<g ref="char:EOLhyphen"/>tive and the Lord of the Aſcendant be in fixed ſigns, account for every de<g ref="char:EOLhyphen"/>gree between him and the Lord of the Aſcendant three miles.</p>
+                  <p>If in common ſigns one mile.</p>
+                  <p>If that the ſignificator of the Fugitive be in the fourth ſixth or tenth houſes, he then is gone but a little way, but in the third or nineth houſes he then is gone far.</p>
+               </div>
+               <div type="section">
+                  <head>Another diſtance.</head>
+                  <p>Mind the diſtance of the aſpect that the Moon hath from the ſigne or Cuſp of the ſignificator of the Fugitive or from the Fugitive himſelf.</p>
+                  <p>
+                     <pb n="84" facs="tcp:61470:47" rendition="simple:additions"/>And for one degree in a Common ſign give five paces, and for one degree in a moveable ſign give ſeventeen paces.</p>
+                  <p>And for one degree in a fixed ſign give 1000 paces.</p>
+                  <p>
+                     <hi>Note that one mile gives <hi>1056</hi> paces.</hi>
+                  </p>
+                  <p>Conſider likewiſe whether the Fugitive be in town or not, then give diſtance accordingly and ſo obſerving thy di<g ref="char:EOLhyphen"/>ſtances aright you cannot erre.</p>
+                  <p>For which way the Fugitive is gone you muſt note that the Moon hath a grand ſignificator for Fugitives, there<g ref="char:EOLhyphen"/>fore look to the ſignificator of the Fugi<g ref="char:EOLhyphen"/>tive and to the Moon, and according to the ſtrongeſt of them judge, and in the ſign and quarter that the ſtrongeſt is in, ſay that way the Fugitive is gone.</p>
+               </div>
+            </div>
+            <div type="table">
+               <pb facs="tcp:61470:47"/>
+               <head>A Table of the Eſcential dignities of the Planets according to <hi>Ptolemy.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Signs</cell>
+                        <cell role="label">Planets Houſes</cell>
+                        <cell role="label">Exalti<g ref="char:EOLhyphen"/>on.</cell>
+                        <cell role="label">Triplic. Ds. No.</cell>
+                        <cell role="label" cols="5">The <gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>mes of the Planets.</cell>
+                        <cell role="label" cols="3">the faces of the Planets.</cell>
+                        <cell role="label">Detr.</cell>
+                        <cell role="label">Fall.</cell>
+                     </row>
+                     <row>
+                        <cell>♈</cell>
+                        <cell>♂ D</cell>
+                        <cell>☉ 19</cell>
+                        <cell>☉ ♃</cell>
+                        <cell>♃ 6</cell>
+                        <cell>♀ 14</cell>
+                        <cell>☿ 21</cell>
+                        <cell>♂ 26</cell>
+                        <cell>♄ 30</cell>
+                        <cell>♂ 1</cell>
+                        <cell>☉ 20</cell>
+                        <cell>♀ 30</cell>
+                        <cell>♀</cell>
+                        <cell>♄</cell>
+                     </row>
+                     <row>
+                        <cell>♉</cell>
+                        <cell>♀ N</cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g> 3</cell>
+                        <cell>♀ <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell>♀ 8</cell>
+                        <cell>♀ 15</cell>
+                        <cell>♃ 22</cell>
+                        <cell>♄ 26</cell>
+                        <cell>♂ 30</cell>
+                        <cell>☿ 10</cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g> 26</cell>
+                        <cell>♄ 30</cell>
+                        <cell>♂</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♊</cell>
+                        <cell>♀ D</cell>
+                        <cell>♌ 3</cell>
+                        <cell>♄ ☿</cell>
+                        <cell>♀ 7</cell>
+                        <cell>♃ 14</cell>
+                        <cell>♀ 21</cell>
+                        <cell>♄ 25</cell>
+                        <cell>♂ 30</cell>
+                        <cell>♃ 10</cell>
+                        <cell>♂ 20</cell>
+                        <cell>☉ 30</cell>
+                        <cell>♃</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♋</cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g> N / D</cell>
+                        <cell>♃ 15</cell>
+                        <cell>♂ ♂</cell>
+                        <cell>♂ 6</cell>
+                        <cell>♃ 13</cell>
+                        <cell>☿ 20</cell>
+                        <cell>♀ 27</cell>
+                        <cell>♄ 30</cell>
+                        <cell>♀ 10</cell>
+                        <cell>☿ 20</cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g> 30</cell>
+                        <cell>♄</cell>
+                        <cell>♂</cell>
+                     </row>
+                     <row>
+                        <cell>♌</cell>
+                        <cell>☉ N / D</cell>
+                        <cell> </cell>
+                        <cell>☉ ♃</cell>
+                        <cell>♄ 6</cell>
+                        <cell>☿ 13</cell>
+                        <cell>♀ 19</cell>
+                        <cell>♃ 25</cell>
+                        <cell>♂ 30</cell>
+                        <cell>♄ 10</cell>
+                        <cell>♃ 20</cell>
+                        <cell>♂ 30</cell>
+                        <cell>♄</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♍</cell>
+                        <cell>☿ N</cell>
+                        <cell>☿ 15</cell>
+                        <cell>♀ <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell>☿ 7</cell>
+                        <cell>♀ 13</cell>
+                        <cell>♃ 18</cell>
+                        <cell>♄ 24</cell>
+                        <cell>♂ 30</cell>
+                        <cell>☉ 10</cell>
+                        <cell>♀ 20</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 30</cell>
+                        <cell>♃</cell>
+                        <cell>♀</cell>
+                     </row>
+                     <row>
+                        <cell>♎</cell>
+                        <cell>♀ N</cell>
+                        <cell>♄ 21</cell>
+                        <cell>♄ ☿</cell>
+                        <cell>♄ 6</cell>
+                        <cell>♀ 11</cell>
+                        <cell>♃ 19</cell>
+                        <cell>☿ 14</cell>
+                        <cell>♂ 30</cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g> 10</cell>
+                        <cell>♄ 20</cell>
+                        <cell>♃ 30</cell>
+                        <cell>♂</cell>
+                        <cell>☉</cell>
+                     </row>
+                     <row>
+                        <cell>♏</cell>
+                        <cell>♂ D</cell>
+                        <cell> </cell>
+                        <cell>♂ ♂</cell>
+                        <cell>♂ 6</cell>
+                        <cell>♃ 14</cell>
+                        <cell>♀ 21</cell>
+                        <cell>☿ 27</cell>
+                        <cell>♄ 30</cell>
+                        <cell>♂ 10</cell>
+                        <cell>☉ 20</cell>
+                        <cell>♀ 30</cell>
+                        <cell>♀</cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♐</cell>
+                        <cell>♃ D</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 3</cell>
+                        <cell>☉ ♃</cell>
+                        <cell>♃ 8</cell>
+                        <cell>♀ 14</cell>
+                        <cell>☿ 9</cell>
+                        <cell>♄ 25</cell>
+                        <cell>♂ 30</cell>
+                        <cell>♀ 10</cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g> 20</cell>
+                        <cell>♄ 30</cell>
+                        <cell>☿</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♑</cell>
+                        <cell>♄ N</cell>
+                        <cell>♂ 28</cell>
+                        <cell>♀ <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell>☿ 6</cell>
+                        <cell>☿ 12</cell>
+                        <cell>♃ 19</cell>
+                        <cell>♂ 25</cell>
+                        <cell>♄ 30</cell>
+                        <cell>♃ 10</cell>
+                        <cell>♂ 20</cell>
+                        <cell>☉ 30</cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell>♃</cell>
+                     </row>
+                     <row>
+                        <cell>♒</cell>
+                        <cell>♄ D</cell>
+                        <cell> </cell>
+                        <cell>♄ ♀</cell>
+                        <cell>♄ 6</cell>
+                        <cell>☿ 12</cell>
+                        <cell>♀ 20</cell>
+                        <cell>♃ 25</cell>
+                        <cell>♂ 30</cell>
+                        <cell>♀ 10</cell>
+                        <cell>☿ 20</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 30</cell>
+                        <cell>☉</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>♓</cell>
+                        <cell>♃ N</cell>
+                        <cell>♀ 27</cell>
+                        <cell>♂ ♂</cell>
+                        <cell>♀ <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>♃ 14</cell>
+                        <cell>☿ 20</cell>
+                        <cell>♂ 26</cell>
+                        <cell>♄ 30</cell>
+                        <cell>♄ <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>♃ 20</cell>
+                        <cell>♂ 30</cell>
+                        <cell>☿</cell>
+                        <cell>☿</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:61470:48"/>
+            <head>The Contents.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt to know whether the Fi<g ref="char:EOLhyphen"/>gure be Radical or not. <hi>Page 1.</hi>
+            </p>
+            <p>Concerning Theft or any other thing loft. <hi>p. 3.</hi>
+            </p>
+            <p>Choice Tokens that the Goods are not ſtolen. <hi>p. 4.</hi>
+            </p>
+            <p>To know in what part of the houſe the things miſſing are in. <hi>p. 8.</hi>
+            </p>
+            <p>That the Goods are ſtolen. <hi>p. 11.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:61470:48"/>How to find out the ſignificator of the Thief. <hi>p. 12.</hi>
+            </p>
+            <p>A deſcription of the Thief by <hi>Saturn</hi> in any of the <hi>12</hi> Signs. <hi>p. 13.</hi>
+            </p>
+            <p>A ſhort deſcription of the other Planets <hi>Jupiter, Mars, Sol, Venus</hi> and <hi>Mercury. p. 17.</hi>
+            </p>
+            <p>A deſcription of the Thief by the <hi>Moon</hi> being in any of the <hi>12</hi> ſigns. <hi>p. 18.</hi>
+            </p>
+            <p>The Marks of the Thief. <hi>p. 22.</hi>
+            </p>
+            <p>Whether the Thief be of the family of the Querent or not. <hi>p. 25.</hi>
+            </p>
+            <p>Which of the houſes may be ſuſpected for the Theft. <hi>p. 27.</hi>
+            </p>
+            <p>To know how many Thieves there are. <hi>p. 31.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:61470:49"/>To know whether the Thief be a man or a woman. <hi>p. 32.</hi>
+            </p>
+            <p>How to know the Age of the Thief. <hi>p. 33.</hi>
+            </p>
+            <p>To know whether the Thief be in Town or not. <hi>p. 35.</hi>
+            </p>
+            <p>Whether the goods be with or near the querent. <hi>p. 37.</hi>
+            </p>
+            <p>To know which way the thief dwells from the querent. <hi>p. 39.</hi>
+            </p>
+            <p>Tokens of the thiefs houſe. <hi>p. 39.</hi>
+            </p>
+            <p>Of the diſtance of place. <hi>p. 41.</hi>
+            </p>
+            <p>Whether the Thief ſhall be known or not. <hi>p. 42</hi>
+            </p>
+            <p>Whether the Thief hath the goods in his own keeping, or to whom he hath de<g ref="char:EOLhyphen"/>livered them. <hi>p. 43.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:61470:49"/>Whether the Thief ſhall be taken or not. <hi>p. 46.</hi>
+            </p>
+            <p>Whether the ſuſpected party be guilty or not. <hi>p. 46.</hi>
+            </p>
+            <p>That the party ſuſpected is not guilty. <hi>p. 48.</hi>
+            </p>
+            <p>Tokens that the goods loſt ſhall be re<g ref="char:EOLhyphen"/>covered. <hi>p. 49.</hi>
+            </p>
+            <p>The time when the goods ſtolen or miſ<g ref="char:EOLhyphen"/>ſing ſhall be found. <hi>p. 54.</hi>
+            </p>
+            <p>Choice tokens that the Goods ſtolen ſhall not be recovered. <hi>p. 57.</hi>
+            </p>
+            <p>Of friendſhip and hatred between the querent and the Thief. <hi>p. 59.</hi>
+            </p>
+            <p>Whether the Thief be beloved of his neighbours or not. <hi>p. 60.</hi>
+            </p>
+            <p>That the querent is thief himſelf. <hi>p. 61.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:61470:50"/>That the Thief and querent be both in one houſe. <hi>p. 61.</hi>
+            </p>
+            <p>Whether the Thief be married or not. <hi>p. 62.</hi>
+            </p>
+            <p>A Scheam erected concerning a houſe robbed in the <hi>Minories. p. 63.</hi>
+            </p>
+            <p>Judgement upon the foregoing Figure. <hi>p. 64.</hi>
+            </p>
+            <p>Concerning the diſtance. <hi>p. 67.</hi>
+            </p>
+            <p>Concerning Beaſts or any living thing loſt or ſtrayed. <hi>p. 68.</hi>
+            </p>
+            <p>That the Cattle are driven away or ſtolen. <hi>p. 69.</hi>
+            </p>
+            <p>Where the Beaſts are. <hi>p. 70.</hi>
+            </p>
+            <p>Whether the Beaſts be in the pound or no. <hi>p. 72.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:61470:50"/>Whether the Beaſt be dead or a live. <hi>p. 73.</hi>
+            </p>
+            <p>To know if the beaſts be loſt <hi>p. 74.</hi>
+            </p>
+            <p>Whether the beaſts ſhall be had again or not. <hi>p. 75.</hi>
+            </p>
+            <p>How to Find out the ſignificator of a Fugitive. <hi>p. 76.</hi>
+            </p>
+            <p>Whether <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Fugitive will be found or come again. <hi>p. 77.</hi>
+            </p>
+            <p>Where the Fugitive is. <hi>p. 80.</hi>
+            </p>
+            <p>To know the diſtance between the que<g ref="char:EOLhyphen"/>rent and the Fugitive. <hi>p. 83.</hi>
+            </p>
+            <p>A Table of the Eſcentiall dignities of the Planets. <hi>p. 85.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
